@@ -20,8 +20,8 @@ library(pals)
 
 
 # File path
-datapath <- "/Users/elizabethbageant/Library/CloudStorage/OneDrive-UniversityofIdaho/MAIN/Projects/Growth in Idaho 2024/Pop_Change_Analysis/analysis_data/"
-outputpath <- "/Users/elizabethbageant/Library/CloudStorage/OneDrive-UniversityofIdaho/MAIN/Projects/Growth in Idaho 2024/Pop_Change_Analysis/analysis_output/"
+datapath <- "/Users/elizabethbageant/Library/CloudStorage/OneDrive-UniversityofIdaho/MAIN/Projects/Growth in Idaho 2024/Pop_Change_Analysis4/analysis_data/"
+outputpath <- "/Users/elizabethbageant/Library/CloudStorage/OneDrive-UniversityofIdaho/MAIN/Projects/Growth in Idaho 2024/Pop_Change_Analysis4/analysis_output/"
 
 # Color paletteer explorer: https://r-graph-gallery.com/color-palette-finder.html
 # Colors in scale_color_paletteer_d("vangogh::CafeTerrace") #024873FF, #A2A637FF, #D9AA1EFF, #D98825FF, #BF4F26FF
