@@ -1,0 +1,77 @@
+Codebook for countyfipstool20190120
+
+This tool gives you a fast way to assign census county fips codes to variously presented county names.
+
+WHAT TO DO
+
+step #1
+In the file with your data in it, name the variable with county names "cname."  
+Make sure that this variable is trimmed of extra, leading or trailing spaces before merging.  
+
+step #2
+Name the state designation variable in that file so that it matches the appropriate state designation in the "countyfipstool" file--sid, sfips, sab, or sname.  If you use "sname" make sure the format of your state names match the format in the tool, which are in proper format.
+
+step #3
+Make sure none of the other variable names in your file are the same as variable names in the tool you might want to bring in.  
+
+step #4
+With the file with your data open, merge m:1 (many to one) on sid (or sfips, sab or sname) and cname.  This will bring in the variable fips (state and county fips), which will constitute universal identifiers for that county.  It will bring in other variables you might find useful also.  
+In Stata, the code for the merge might look as follows.
+merge m:1 sid cname using countyfipstool20190120
+
+step #5
+Drop any cases that were brought in with the "using data" (i.e., the tool) but aren't in the master data.  
+In Stata, this is accomplished with the following code.
+drop if _merge==2
+
+OVERVIEW
+
+This tool gives you a fast way to assign census county fips codes to variously presented county names.
+
+This is useful for dealing with county names in an official source, such as election returns, which inconsistently present county names and often have mispellings.
+
+An example of the latter would be whether county names are in proper format, or all lower or upper case letters.  Another example is how the prefix "saint" is treated in a county name, or how a county name might be abbreviated.  
+
+There are about 3,142 counties in the U.S., and there are 77,613 different permutations of county names in this file (an average of about 25).  There are mostly 20, 40, 80 or 160 versions of a county name, depending on its properties, although one has 382 ("riogrnd. cy." vrs. "riogrnd. cy" vrs. "riognd. cty." vrs. ....).  
+
+Different permutations of county names were generated and then misspellings of county names were added to the file as I came across them over time.  
+
+Common OCR (optical chararacter recognition) errors were also used in permutations (i.e., it is common for two ls (i.e., "williamsburg") to come out as one (i.e., "wiliamsburg") or with one as an "i" (i.e., "wiliiamsburg").  
+
+There are permutations of county names that aren't in this file, so using this tool won't match every county name when that is the case.  Feel free to let me know what these are, and I'll add them.  
+
+IDENTITY
+A variable representing the state designation (sname, sab, sid or sfips) plus the variable cname uniquely identify observations.  In other words, only one row in the dataset has the combination of values seen in the state designation and cname.  
+
+VARIABLE LIST
+
+sname
+	Name of state in proper format.  
+
+sab
+	State two letter postale abbreviation
+
+sid
+	Number of state in alphabetical list.
+	Ranges from 1 to 50.  
+	8.5 = district of columbia.  
+
+sfips
+	Census state fips code (one or two digits).
+
+cname
+	One of multiple permutations of possible county names.  
+
+saint
+	Dummy: 1 = some form of the word "saint" is at the beginning of the county name.  0 = else.
+
+cfips
+	Census county fips code (one, two or three digits).  
+	County fips codes for Virginia cities are also included, along with any city that does not exist inside county boundaries.  Together all of the county fips codes included here tile the entire United States.  
+	999999 = means look into what this is more.  
+	One example of a code of "999999" is something that doesn't have a county fips code, but is often put into lists of counties.  
+	Another example of a code of "999999" is Baltimore Maryland.  There is both the City of Baltimore (which isn't in a county) and Baltimore County.  If something merely says "Baltimore," there isn't enough information there to know if it's the city or county.  
+
+fips
+	Census state and county fips code (four or five digits).  
+	The first one or two digits are the state fips code, and then last three digits are the county fips code.  

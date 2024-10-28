@@ -1,0 +1,162 @@
+"Notes"	"Five-Year Age Groups"	"Five-Year Age Groups Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"< 1 year"	"1"	"2018"	"2018"	109	22348	487.7
+	"< 1 year"	"1"	"2019"	"2019"	97	22106	438.8
+	"< 1 year"	"1"	"2020"	"2020"	109	21547	505.9
+	"< 1 year"	"1"	"2021"	"2021"	117	21203	551.8
+	"< 1 year"	"1"	"2022 "	"2022"	117	22368	523.1
+	"1-4 years"	"1-4"	"2018"	"2018"	15	93991	Unreliable
+	"1-4 years"	"1-4"	"2019"	"2019"	21	94094	22.3
+	"1-4 years"	"1-4"	"2020"	"2020"	19	92301	Unreliable
+	"1-4 years"	"1-4"	"2021"	"2021"	28	93121	30.1
+	"1-4 years"	"1-4"	"2022 "	"2022"	16	90915	Unreliable
+	"5-9 years"	"5-9"	"2018"	"2018"	11	122965	Unreliable
+	"5-9 years"	"5-9"	"2019"	"2019"	33	123317	26.8
+	"5-9 years"	"5-9"	"2020"	"2020"	14	125055	Unreliable
+	"5-9 years"	"5-9"	"2022 "	"2022"	12	127992	Unreliable
+	"10-14 years"	"10-14"	"2018"	"2018"	26	131036	19.8
+	"10-14 years"	"10-14"	"2019"	"2019"	26	131471	19.8
+	"10-14 years"	"10-14"	"2020"	"2020"	22	132772	16.6
+	"10-14 years"	"10-14"	"2021"	"2021"	29	140519	20.6
+	"10-14 years"	"10-14"	"2022 "	"2022"	33	136743	24.1
+	"15-19 years"	"15-19"	"2018"	"2018"	87	124506	69.9
+	"15-19 years"	"15-19"	"2019"	"2019"	58	125185	46.3
+	"15-19 years"	"15-19"	"2020"	"2020"	87	127139	68.4
+	"15-19 years"	"15-19"	"2021"	"2021"	83	134537	61.7
+	"15-19 years"	"15-19"	"2022 "	"2022"	71	146646	48.4
+	"20-24 years"	"20-24"	"2018"	"2018"	144	114894	125.3
+	"20-24 years"	"20-24"	"2019"	"2019"	108	116434	92.8
+	"20-24 years"	"20-24"	"2020"	"2020"	110	119974	91.7
+	"20-24 years"	"20-24"	"2021"	"2021"	140	123806	113.1
+	"20-24 years"	"20-24"	"2022 "	"2022"	124	134671	92.1
+	"25-29 years"	"25-29"	"2018"	"2018"	122	119176	102.4
+	"25-29 years"	"25-29"	"2019"	"2019"	109	121631	89.6
+	"25-29 years"	"25-29"	"2020"	"2020"	127	122723	103.5
+	"25-29 years"	"25-29"	"2021"	"2021"	175	123798	141.4
+	"25-29 years"	"25-29"	"2022 "	"2022"	159	124278	127.9
+	"30-34 years"	"30-34"	"2018"	"2018"	118	112206	105.2
+	"30-34 years"	"30-34"	"2019"	"2019"	117	114859	101.9
+	"30-34 years"	"30-34"	"2020"	"2020"	165	118855	138.8
+	"30-34 years"	"30-34"	"2021"	"2021"	205	125066	163.9
+	"30-34 years"	"30-34"	"2022 "	"2022"	195	126925	153.6
+	"35-39 years"	"35-39"	"2018"	"2018"	186	115383	161.2
+	"35-39 years"	"35-39"	"2019"	"2019"	170	118233	143.8
+	"35-39 years"	"35-39"	"2020"	"2020"	219	120252	182.1
+	"35-39 years"	"35-39"	"2021"	"2021"	257	126336	203.4
+	"35-39 years"	"35-39"	"2022 "	"2022"	212	126290	167.9
+	"40-44 years"	"40-44"	"2018"	"2018"	186	104646	177.7
+	"40-44 years"	"40-44"	"2019"	"2019"	202	108939	185.4
+	"40-44 years"	"40-44"	"2020"	"2020"	237	113978	207.9
+	"40-44 years"	"40-44"	"2021"	"2021"	312	123050	253.6
+	"40-44 years"	"40-44"	"2022 "	"2022"	271	126074	215.0
+	"45-49 years"	"45-49"	"2018"	"2018"	285	101672	280.3
+	"45-49 years"	"45-49"	"2019"	"2019"	273	102792	265.6
+	"45-49 years"	"45-49"	"2020"	"2020"	325	104222	311.8
+	"45-49 years"	"45-49"	"2021"	"2021"	394	108152	364.3
+	"45-49 years"	"45-49"	"2022 "	"2022"	355	110271	321.9
+	"50-54 years"	"50-54"	"2018"	"2018"	453	98253	461.1
+	"50-54 years"	"50-54"	"2019"	"2019"	392	98974	396.1
+	"50-54 years"	"50-54"	"2020"	"2020"	447	101277	441.4
+	"50-54 years"	"50-54"	"2021"	"2021"	593	107832	549.9
+	"50-54 years"	"50-54"	"2022 "	"2022"	492	109309	450.1
+	"55-59 years"	"55-59"	"2018"	"2018"	641	108608	590.2
+	"55-59 years"	"55-59"	"2019"	"2019"	676	109541	617.1
+	"55-59 years"	"55-59"	"2020"	"2020"	747	109050	685.0
+	"55-59 years"	"55-59"	"2021"	"2021"	889	111302	798.7
+	"55-59 years"	"55-59"	"2022 "	"2022"	742	108700	682.6
+	"60-64 years "	"60-64"	"2018"	"2018"	1026	106242	965.7
+	"60-64 years "	"60-64"	"2019"	"2019"	972	108819	893.2
+	"60-64 years "	"60-64"	"2020"	"2020"	1121	111774	1002.9
+	"60-64 years "	"60-64"	"2021"	"2021"	1389	117316	1184.0
+	"60-64 years "	"60-64"	"2022 "	"2022"	1158	117399	986.4
+	"65-69 years"	"65-69"	"2018"	"2018"	1327	94545	1403.6
+	"65-69 years"	"65-69"	"2019"	"2019"	1228	97884	1254.5
+	"65-69 years"	"65-69"	"2020"	"2020"	1355	102392	1323.3
+	"65-69 years"	"65-69"	"2021"	"2021"	1718	107836	1593.2
+	"65-69 years"	"65-69"	"2022 "	"2022"	1518	109829	1382.1
+	"70-74 years"	"70-74"	"2018"	"2018"	1490	73696	2021.8
+	"70-74 years"	"70-74"	"2019"	"2019"	1547	77982	1983.8
+	"70-74 years"	"70-74"	"2020"	"2020"	1895	83550	2268.1
+	"70-74 years"	"70-74"	"2021"	"2021"	2172	89510	2426.5
+	"70-74 years"	"70-74"	"2022 "	"2022"	1953	89656	2178.3
+	"75-79 years"	"75-79"	"2018"	"2018"	1705	50168	3398.6
+	"75-79 years"	"75-79"	"2019"	"2019"	1881	52941	3553.0
+	"75-79 years"	"75-79"	"2020"	"2020"	2110	55797	3781.6
+	"75-79 years"	"75-79"	"2021"	"2021"	2303	56494	4076.5
+	"75-79 years"	"75-79"	"2022 "	"2022"	2346	62937	3727.5
+	"80-84 years"	"80-84"	"2018"	"2018"	1833	30454	6018.9
+	"80-84 years"	"80-84"	"2019"	"2019"	2009	32089	6260.7
+	"80-84 years"	"80-84"	"2020"	"2020"	2270	33841	6707.8
+	"80-84 years"	"80-84"	"2021"	"2021"	2417	34000	7108.8
+	"80-84 years"	"80-84"	"2022 "	"2022"	2402	36729	6539.8
+	"85-89 years"	"85-89"	"2018"	"2018"	1970	Not Applicable	Not Applicable
+	"85-89 years"	"85-89"	"2019"	"2019"	2027	Not Applicable	Not Applicable
+	"85-89 years"	"85-89"	"2020"	"2020"	2230	Not Applicable	Not Applicable
+	"85-89 years"	"85-89"	"2021"	"2021"	2310	Not Applicable	Not Applicable
+	"85-89 years"	"85-89"	"2022 "	"2022"	2305	Not Applicable	Not Applicable
+	"90-94 years"	"90-94"	"2018"	"2018"	1646	Not Applicable	Not Applicable
+	"90-94 years"	"90-94"	"2019"	"2019"	1586	Not Applicable	Not Applicable
+	"90-94 years"	"90-94"	"2020"	"2020"	1799	Not Applicable	Not Applicable
+	"90-94 years"	"90-94"	"2021"	"2021"	1877	Not Applicable	Not Applicable
+	"90-94 years"	"90-94"	"2022 "	"2022"	1766	Not Applicable	Not Applicable
+	"95-99 years"	"95-99"	"2018"	"2018"	736	Not Applicable	Not Applicable
+	"95-99 years"	"95-99"	"2019"	"2019"	757	Not Applicable	Not Applicable
+	"95-99 years"	"95-99"	"2020"	"2020"	831	Not Applicable	Not Applicable
+	"95-99 years"	"95-99"	"2021"	"2021"	788	Not Applicable	Not Applicable
+	"95-99 years"	"95-99"	"2022 "	"2022"	776	Not Applicable	Not Applicable
+	"100+ years"	"100+"	"2018"	"2018"	145	Not Applicable	Not Applicable
+	"100+ years"	"100+"	"2019"	"2019"	141	Not Applicable	Not Applicable
+	"100+ years"	"100+"	"2020"	"2020"	163	Not Applicable	Not Applicable
+	"100+ years"	"100+"	"2021"	"2021"	141	Not Applicable	Not Applicable
+	"100+ years"	"100+"	"2022 "	"2022"	139	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 2018-2022, Single Race"
+"Query Parameters:"
+"States: Idaho (16)"
+"Group By: Five-Year Age Groups; Year"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-expanded.html for more information."
+"---"
+"Query Date: Oct 15, 2024 11:42:39 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2022 on CDC WONDER Online Database, released in 2024. Data are from the Multiple Cause of Death Files,"
+"2018-2022, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10-expanded.html on Oct 15, 2024 11:42:39 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Not Stated."
+"5. The population figures for years 2022 and later are single-race estimates of the July 1 resident population, from the Vintage"
+"2022 postcensal series released by the Census Bureau on June 22, 2023. The 2022 series is based on the Modified Blended Base"
+"produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of"
+"the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020"
+"Census data from the internal Census Edited File (CEF). The population figures for year 2021 are single-race estimates of the"
+"July 1 resident population, based on the Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial"
+"population count, from the Vintage 2021 postcensal series released by the Census Bureau on June 30, 2022. The population figures"
+"for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020 postcensal series based on"
+"April 2010 Census, released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series based on April 2010 Census, released by the"
+"Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the July 1 resident"
+"population, from the Vintage 2018 postcensal series based on April 2010 Census, released by the Census Bureau on June 20, 2019."
+"More information: http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Population Data."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Age"
+"Group."

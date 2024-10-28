@@ -1,0 +1,215 @@
+"Notes"	"Residence State"	"Residence State Code"	"Year"	"Year Code"	"Five-Year Age Groups"	"Five-Year Age Groups Code"	Deaths	Population	Crude Rate
+	"Idaho"	"16"	"2018"	"2018"	"< 1 year"	"1"	109	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2018"	"2018"	"1-4 years"	"1-4"	15	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2018"	"2018"	"5-9 years"	"5-9"	11	122965	Unreliable
+	"Idaho"	"16"	"2018"	"2018"	"10-14 years"	"10-14"	26	131036	19.8
+	"Idaho"	"16"	"2018"	"2018"	"15-19 years"	"15-19"	87	124506	69.9
+	"Idaho"	"16"	"2018"	"2018"	"20-24 years"	"20-24"	144	114894	125.3
+	"Idaho"	"16"	"2018"	"2018"	"25-29 years"	"25-29"	122	119176	102.4
+	"Idaho"	"16"	"2018"	"2018"	"30-34 years"	"30-34"	118	112206	105.2
+	"Idaho"	"16"	"2018"	"2018"	"35-39 years"	"35-39"	186	115383	161.2
+	"Idaho"	"16"	"2018"	"2018"	"40-44 years"	"40-44"	186	104646	177.7
+	"Idaho"	"16"	"2018"	"2018"	"45-49 years"	"45-49"	285	101672	280.3
+	"Idaho"	"16"	"2018"	"2018"	"50-54 years"	"50-54"	453	98253	461.1
+	"Idaho"	"16"	"2018"	"2018"	"55-59 years"	"55-59"	641	108608	590.2
+	"Idaho"	"16"	"2018"	"2018"	"60-64 years "	"60-64"	1026	106242	965.7
+	"Idaho"	"16"	"2018"	"2018"	"65-69 years"	"65-69"	1327	94545	1403.6
+	"Idaho"	"16"	"2018"	"2018"	"70-74 years"	"70-74"	1490	73696	2021.8
+	"Idaho"	"16"	"2018"	"2018"	"75-79 years"	"75-79"	1705	50168	3398.6
+	"Idaho"	"16"	"2018"	"2018"	"80-84 years"	"80-84"	1833	30454	6018.9
+	"Idaho"	"16"	"2018"	"2018"	"85-89 years"	"85-89"	1970	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2018"	"2018"	"90-94 years"	"90-94"	1646	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2018"	"2018"	"95-99 years"	"95-99"	736	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2018"	"2018"	"100+ years"	"100+"	145	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2018"	"2018"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2019"	"2019"	"< 1 year"	"1"	97	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2019"	"2019"	"1-4 years"	"1-4"	21	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2019"	"2019"	"5-9 years"	"5-9"	33	123317	26.8
+	"Idaho"	"16"	"2019"	"2019"	"10-14 years"	"10-14"	26	131471	19.8
+	"Idaho"	"16"	"2019"	"2019"	"15-19 years"	"15-19"	58	125185	46.3
+	"Idaho"	"16"	"2019"	"2019"	"20-24 years"	"20-24"	108	116434	92.8
+	"Idaho"	"16"	"2019"	"2019"	"25-29 years"	"25-29"	109	121631	89.6
+	"Idaho"	"16"	"2019"	"2019"	"30-34 years"	"30-34"	117	114859	101.9
+	"Idaho"	"16"	"2019"	"2019"	"35-39 years"	"35-39"	170	118233	143.8
+	"Idaho"	"16"	"2019"	"2019"	"40-44 years"	"40-44"	202	108939	185.4
+	"Idaho"	"16"	"2019"	"2019"	"45-49 years"	"45-49"	273	102792	265.6
+	"Idaho"	"16"	"2019"	"2019"	"50-54 years"	"50-54"	392	98974	396.1
+	"Idaho"	"16"	"2019"	"2019"	"55-59 years"	"55-59"	676	109541	617.1
+	"Idaho"	"16"	"2019"	"2019"	"60-64 years "	"60-64"	972	108819	893.2
+	"Idaho"	"16"	"2019"	"2019"	"65-69 years"	"65-69"	1228	97884	1254.5
+	"Idaho"	"16"	"2019"	"2019"	"70-74 years"	"70-74"	1547	77982	1983.8
+	"Idaho"	"16"	"2019"	"2019"	"75-79 years"	"75-79"	1881	52941	3553.0
+	"Idaho"	"16"	"2019"	"2019"	"80-84 years"	"80-84"	2009	32089	6260.7
+	"Idaho"	"16"	"2019"	"2019"	"85-89 years"	"85-89"	2027	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2019"	"2019"	"90-94 years"	"90-94"	1586	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2019"	"2019"	"95-99 years"	"95-99"	757	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2019"	"2019"	"100+ years"	"100+"	141	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2019"	"2019"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2020"	"2020"	"< 1 year"	"1"	109	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2020"	"2020"	"1-4 years"	"1-4"	19	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2020"	"2020"	"5-9 years"	"5-9"	14	125055	Unreliable
+	"Idaho"	"16"	"2020"	"2020"	"10-14 years"	"10-14"	22	132772	16.6
+	"Idaho"	"16"	"2020"	"2020"	"15-19 years"	"15-19"	87	127139	68.4
+	"Idaho"	"16"	"2020"	"2020"	"20-24 years"	"20-24"	110	119974	91.7
+	"Idaho"	"16"	"2020"	"2020"	"25-29 years"	"25-29"	127	122723	103.5
+	"Idaho"	"16"	"2020"	"2020"	"30-34 years"	"30-34"	165	118855	138.8
+	"Idaho"	"16"	"2020"	"2020"	"35-39 years"	"35-39"	219	120252	182.1
+	"Idaho"	"16"	"2020"	"2020"	"40-44 years"	"40-44"	237	113978	207.9
+	"Idaho"	"16"	"2020"	"2020"	"45-49 years"	"45-49"	325	104222	311.8
+	"Idaho"	"16"	"2020"	"2020"	"50-54 years"	"50-54"	447	101277	441.4
+	"Idaho"	"16"	"2020"	"2020"	"55-59 years"	"55-59"	747	109050	685.0
+	"Idaho"	"16"	"2020"	"2020"	"60-64 years "	"60-64"	1121	111774	1002.9
+	"Idaho"	"16"	"2020"	"2020"	"65-69 years"	"65-69"	1355	102392	1323.3
+	"Idaho"	"16"	"2020"	"2020"	"70-74 years"	"70-74"	1895	83550	2268.1
+	"Idaho"	"16"	"2020"	"2020"	"75-79 years"	"75-79"	2110	55797	3781.6
+	"Idaho"	"16"	"2020"	"2020"	"80-84 years"	"80-84"	2270	33841	6707.8
+	"Idaho"	"16"	"2020"	"2020"	"85-89 years"	"85-89"	2230	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2020"	"2020"	"90-94 years"	"90-94"	1799	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2020"	"2020"	"95-99 years"	"95-99"	831	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2020"	"2020"	"100+ years"	"100+"	163	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2020"	"2020"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2021"	"2021"	"< 1 year"	"1"	117	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2021"	"2021"	"1-4 years"	"1-4"	28	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2021"	"2021"	"5-9 years"	"5-9"	Suppressed	129429	Suppressed
+	"Idaho"	"16"	"2021"	"2021"	"10-14 years"	"10-14"	29	140519	20.6
+	"Idaho"	"16"	"2021"	"2021"	"15-19 years"	"15-19"	83	134537	61.7
+	"Idaho"	"16"	"2021"	"2021"	"20-24 years"	"20-24"	140	123806	113.1
+	"Idaho"	"16"	"2021"	"2021"	"25-29 years"	"25-29"	175	123798	141.4
+	"Idaho"	"16"	"2021"	"2021"	"30-34 years"	"30-34"	205	125066	163.9
+	"Idaho"	"16"	"2021"	"2021"	"35-39 years"	"35-39"	257	126336	203.4
+	"Idaho"	"16"	"2021"	"2021"	"40-44 years"	"40-44"	312	123050	253.6
+	"Idaho"	"16"	"2021"	"2021"	"45-49 years"	"45-49"	394	108152	364.3
+	"Idaho"	"16"	"2021"	"2021"	"50-54 years"	"50-54"	593	107832	549.9
+	"Idaho"	"16"	"2021"	"2021"	"55-59 years"	"55-59"	889	111302	798.7
+	"Idaho"	"16"	"2021"	"2021"	"60-64 years "	"60-64"	1389	117316	1184.0
+	"Idaho"	"16"	"2021"	"2021"	"65-69 years"	"65-69"	1718	107836	1593.2
+	"Idaho"	"16"	"2021"	"2021"	"70-74 years"	"70-74"	2172	89510	2426.5
+	"Idaho"	"16"	"2021"	"2021"	"75-79 years"	"75-79"	2303	56494	4076.5
+	"Idaho"	"16"	"2021"	"2021"	"80-84 years"	"80-84"	2417	34000	7108.8
+	"Idaho"	"16"	"2021"	"2021"	"85-89 years"	"85-89"	2310	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2021"	"2021"	"90-94 years"	"90-94"	1877	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2021"	"2021"	"95-99 years"	"95-99"	788	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2021"	"2021"	"100+ years"	"100+"	141	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2021"	"2021"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2022"	"2022"	"< 1 year"	"1"	117	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2022"	"2022"	"1-4 years"	"1-4"	16	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2022"	"2022"	"5-9 years"	"5-9"	12	127992	Unreliable
+	"Idaho"	"16"	"2022"	"2022"	"10-14 years"	"10-14"	33	136743	24.1
+	"Idaho"	"16"	"2022"	"2022"	"15-19 years"	"15-19"	71	146646	48.4
+	"Idaho"	"16"	"2022"	"2022"	"20-24 years"	"20-24"	124	134671	92.1
+	"Idaho"	"16"	"2022"	"2022"	"25-29 years"	"25-29"	159	124278	127.9
+	"Idaho"	"16"	"2022"	"2022"	"30-34 years"	"30-34"	195	126925	153.6
+	"Idaho"	"16"	"2022"	"2022"	"35-39 years"	"35-39"	212	126290	167.9
+	"Idaho"	"16"	"2022"	"2022"	"40-44 years"	"40-44"	271	126074	215.0
+	"Idaho"	"16"	"2022"	"2022"	"45-49 years"	"45-49"	355	110271	321.9
+	"Idaho"	"16"	"2022"	"2022"	"50-54 years"	"50-54"	492	109309	450.1
+	"Idaho"	"16"	"2022"	"2022"	"55-59 years"	"55-59"	742	108700	682.6
+	"Idaho"	"16"	"2022"	"2022"	"60-64 years "	"60-64"	1158	117399	986.4
+	"Idaho"	"16"	"2022"	"2022"	"65-69 years"	"65-69"	1518	109829	1382.1
+	"Idaho"	"16"	"2022"	"2022"	"70-74 years"	"70-74"	1953	89656	2178.3
+	"Idaho"	"16"	"2022"	"2022"	"75-79 years"	"75-79"	2346	62937	3727.5
+	"Idaho"	"16"	"2022"	"2022"	"80-84 years"	"80-84"	2402	36729	6539.8
+	"Idaho"	"16"	"2022"	"2022"	"85-89 years"	"85-89"	2305	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2022"	"2022"	"90-94 years"	"90-94"	1766	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2022"	"2022"	"95-99 years"	"95-99"	776	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2022"	"2022"	"100+ years"	"100+"	139	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2022"	"2022"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"< 1 year"	"1"	100	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"1-4 years"	"1-4"	25	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"5-9 years"	"5-9"	15	127992	Unreliable
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"10-14 years"	"10-14"	27	136743	19.7
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"15-19 years"	"15-19"	89	146646	60.7
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"20-24 years"	"20-24"	134	134671	99.5
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"25-29 years"	"25-29"	137	124278	110.2
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"30-34 years"	"30-34"	194	126925	152.8
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"35-39 years"	"35-39"	228	126290	180.5
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"40-44 years"	"40-44"	310	126074	245.9
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"45-49 years"	"45-49"	319	110271	289.3
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"50-54 years"	"50-54"	409	109309	374.2
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"55-59 years"	"55-59"	699	108700	643.1
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"60-64 years "	"60-64"	1022	117399	870.5
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"65-69 years"	"65-69"	1500	109829	1365.8
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"70-74 years"	"70-74"	1859	89656	2073.5
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"75-79 years"	"75-79"	2221	62937	3528.9
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"80-84 years"	"80-84"	2442	36729	6648.7
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"85-89 years"	"85-89"	2229	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"90-94 years"	"90-94"	1645	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"95-99 years"	"95-99"	737	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"100+ years"	"100+"	133	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"< 1 year"	"1"	53	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"1-4 years"	"1-4"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"5-9 years"	"5-9"	Suppressed	127992	Suppressed
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"10-14 years"	"10-14"	18	136743	Unreliable
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"15-19 years"	"15-19"	32	146646	21.8
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"20-24 years"	"20-24"	67	134671	49.8
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"25-29 years"	"25-29"	59	124278	47.5
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"30-34 years"	"30-34"	97	126925	76.4
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"35-39 years"	"35-39"	115	126290	91.1
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"40-44 years"	"40-44"	141	126074	111.8
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"45-49 years"	"45-49"	158	110271	143.3
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"50-54 years"	"50-54"	243	109309	222.3
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"55-59 years"	"55-59"	357	108700	328.4
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"60-64 years "	"60-64"	631	117399	537.5
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"65-69 years"	"65-69"	807	109829	734.8
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"70-74 years"	"70-74"	1055	89656	1176.7
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"75-79 years"	"75-79"	1351	62937	2146.6
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"80-84 years"	"80-84"	1359	36729	3700.1
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"85-89 years"	"85-89"	1294	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"90-94 years"	"90-94"	975	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"95-99 years"	"95-99"	427	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"100+ years"	"100+"	105	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"Title: Provisional mortality 2018 through July 27 2024 by five year age groups"
+"Residence States: Idaho (16)"
+"Group By: Residence State; Year; Five-Year Age Groups"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Aug 12, 2024 12:26:09 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2022,"
+"and from provisional data for years 2023-2024, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Aug 12, 2024 12:26:09"
+"PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"5. The population figures for years 2022 and later are single-race estimates of the July 1 resident population, from the Vintage"
+"2022 postcensal series released by the Census Bureau on June 22, 2023. The 2022 series is based on the Modified Blended Base"
+"produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of"
+"the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020"
+"Census data from the internal Census Edited File (CEF). The population figures for years 2021 are single-race estimates of the"
+"July 1 resident population, based on the Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial"
+"population count, from the Vintage 2021 postcensal series released by the Census Bureau on June 30, 2022. The population figures"
+"for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020 postcensal series based on"
+"April 2010 Census, released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series based on April 2010 Census, released by the"
+"Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the July 1 resident"
+"population, from the Vintage 2018 postcensal series based on April 2010 Census, released by the Census Bureau on June 20, 2019."
+"More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Population Data."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
+"Group."
+"7. Deaths occurring through July 27, 2024 as of August 04, 2024."

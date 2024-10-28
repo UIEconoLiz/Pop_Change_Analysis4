@@ -1,0 +1,168 @@
+"Notes"	"State"	"State Code"	"County"	"County Code"	"Year"	"Year Code"	Births	% of Total Births	Total Population	Birth Rate	Female Population	Fertility Rate	Average Age of Mother	Standard Deviation for Average Age of Mother
+	"Idaho"	"16"	"Ada County, ID"	"16001"	"2007"	"2007"	5788	1.59%	375368	15.42	79788	72.54	27.85	5.68
+	"Idaho"	"16"	"Ada County, ID"	"16001"	"2008"	"2008"	5705	1.56%	382618	14.91	80395	70.96	28.15	5.67
+	"Idaho"	"16"	"Ada County, ID"	"16001"	"2009"	"2009"	5238	1.44%	388577	13.48	80606	64.98	28.28	5.60
+	"Idaho"	"16"	"Ada County, ID"	"16001"	"2010"	"2010"	5045	1.38%	392365	12.86	80666	62.54	28.34	5.58
+	"Idaho"	"16"	"Ada County, ID"	"16001"	"2011"	"2011"	5151	1.41%	400842	12.85	81860	62.92	28.63	5.53
+	"Idaho"	"16"	"Ada County, ID"	"16001"	"2012"	"2012"	5075	1.39%	409061	12.41	83580	60.72	28.56	5.52
+	"Idaho"	"16"	"Ada County, ID"	"16001"	"2013"	"2013"	4982	1.37%	416464	11.96	84578	58.90	28.87	5.46
+	"Idaho"	"16"	"Ada County, ID"	"16001"	"2014"	"2014"	5120	1.40%	426236	12.01	85954	59.57	28.96	5.51
+	"Idaho"	"16"	"Ada County, ID"	"16001"	"2015"	"2015"	5126	1.40%	434211	11.81	87149	58.82	29.25	5.46
+	"Idaho"	"16"	"Ada County, ID"	"16001"	"2016"	"2016"	5045	1.38%	444028	11.36	88530	56.99	29.43	5.42
+	"Idaho"	"16"	"Ada County, ID"	"16001"	"2017"	"2017"	4842	1.33%	456849	10.60	91246	53.07	29.38	5.46
+	"Idaho"	"16"	"Ada County, ID"	"16001"	"2018"	"2018"	4861	1.33%	469966	10.34	94291	51.55	29.60	5.42
+	"Idaho"	"16"	"Ada County, ID"	"16001"	"2019"	"2019"	4929	1.35%	481587	10.23	96810	50.91	29.90	5.51
+	"Idaho"	"16"	"Ada County, ID"	"16001"	"2020"	"2020"	4883	1.34%	494399	9.88	99493	49.08	29.88	5.44
+	"Idaho"	"16"	"Ada County, ID"	"16001"	"2021"	"2021"	5084	1.39%	Not Available	Not Available	Not Available	Not Available	30.14	5.33
+	"Idaho"	"16"	"Ada County, ID"	"16001"	"2022"	"2022"	4955	1.36%	Not Available	Not Available	Not Available	Not Available	30.23	5.41
+	"Idaho"	"16"	"Bonneville County, ID"	"16019"	"2007"	"2007"	Missing County	Missing County	Missing County	Missing County	Missing County	Missing County	Missing County	Missing County
+	"Idaho"	"16"	"Bonneville County, ID"	"16019"	"2008"	"2008"	Missing County	Missing County	Missing County	Missing County	Missing County	Missing County	Missing County	Missing County
+	"Idaho"	"16"	"Bonneville County, ID"	"16019"	"2009"	"2009"	Missing County	Missing County	Missing County	Missing County	Missing County	Missing County	Missing County	Missing County
+	"Idaho"	"16"	"Bonneville County, ID"	"16019"	"2010"	"2010"	Missing County	Missing County	Missing County	Missing County	Missing County	Missing County	Missing County	Missing County
+	"Idaho"	"16"	"Bonneville County, ID"	"16019"	"2011"	"2011"	Missing County	Missing County	Missing County	Missing County	Missing County	Missing County	Missing County	Missing County
+	"Idaho"	"16"	"Bonneville County, ID"	"16019"	"2012"	"2012"	Missing County	Missing County	Missing County	Missing County	Missing County	Missing County	Missing County	Missing County
+	"Idaho"	"16"	"Bonneville County, ID"	"16019"	"2013"	"2013"	Missing County	Missing County	Missing County	Missing County	Missing County	Missing County	Missing County	Missing County
+	"Idaho"	"16"	"Bonneville County, ID"	"16019"	"2014"	"2014"	1876	0.51%	108623	17.27	21243	88.31	27.40	5.43
+	"Idaho"	"16"	"Bonneville County, ID"	"16019"	"2015"	"2015"	1969	0.54%	110089	17.89	21638	91.00	27.51	5.40
+	"Idaho"	"16"	"Bonneville County, ID"	"16019"	"2016"	"2016"	1910	0.52%	112232	17.02	22083	86.49	27.53	5.22
+	"Idaho"	"16"	"Bonneville County, ID"	"16019"	"2017"	"2017"	1876	0.51%	114595	16.37	22646	82.84	27.78	5.34
+	"Idaho"	"16"	"Bonneville County, ID"	"16019"	"2018"	"2018"	1815	0.50%	116854	15.53	23257	78.04	27.92	5.15
+	"Idaho"	"16"	"Bonneville County, ID"	"16019"	"2019"	"2019"	1834	0.50%	119062	15.40	23777	77.13	27.91	5.22
+	"Idaho"	"16"	"Bonneville County, ID"	"16019"	"2020"	"2020"	1779	0.49%	122134	14.57	24458	72.74	28.14	5.36
+	"Idaho"	"16"	"Bonneville County, ID"	"16019"	"2021"	"2021"	1820	0.50%	Not Available	Not Available	Not Available	Not Available	28.15	5.32
+	"Idaho"	"16"	"Bonneville County, ID"	"16019"	"2022"	"2022"	1776	0.49%	Not Available	Not Available	Not Available	Not Available	28.32	5.30
+	"Idaho"	"16"	"Canyon County, ID"	"16027"	"2007"	"2007"	3708	1.02%	179645	20.64	37180	99.73	26.10	5.59
+	"Idaho"	"16"	"Canyon County, ID"	"16027"	"2008"	"2008"	3516	0.96%	184996	19.01	38310	91.78	26.14	5.68
+	"Idaho"	"16"	"Canyon County, ID"	"16027"	"2009"	"2009"	3220	0.88%	187357	17.19	38654	83.30	26.54	5.77
+	"Idaho"	"16"	"Canyon County, ID"	"16027"	"2010"	"2010"	3155	0.86%	188923	16.70	38618	81.70	26.58	5.74
+	"Idaho"	"16"	"Canyon County, ID"	"16027"	"2011"	"2011"	3021	0.83%	191694	15.76	38974	77.51	26.72	5.77
+	"Idaho"	"16"	"Canyon County, ID"	"16027"	"2012"	"2012"	3096	0.85%	193888	15.97	39274	78.83	26.72	5.65
+	"Idaho"	"16"	"Canyon County, ID"	"16027"	"2013"	"2013"	3092	0.85%	198871	15.55	40435	76.47	27.16	5.82
+	"Idaho"	"16"	"Canyon County, ID"	"16027"	"2014"	"2014"	3219	0.88%	203143	15.85	41352	77.84	27.13	5.63
+	"Idaho"	"16"	"Canyon County, ID"	"16027"	"2015"	"2015"	3175	0.87%	207478	15.30	42056	75.49	27.22	5.64
+	"Idaho"	"16"	"Canyon County, ID"	"16027"	"2016"	"2016"	3129	0.86%	211698	14.78	42591	73.47	27.25	5.61
+	"Idaho"	"16"	"Canyon County, ID"	"16027"	"2017"	"2017"	3065	0.84%	216699	14.14	43582	70.33	27.54	5.62
+	"Idaho"	"16"	"Canyon County, ID"	"16027"	"2018"	"2018"	2918	0.80%	223499	13.06	45032	64.80	27.71	5.56
+	"Idaho"	"16"	"Canyon County, ID"	"16027"	"2019"	"2019"	3046	0.83%	229849	13.25	46533	65.46	27.72	5.56
+	"Idaho"	"16"	"Canyon County, ID"	"16027"	"2020"	"2020"	3197	0.88%	237053	13.49	48165	66.38	27.71	5.60
+	"Idaho"	"16"	"Canyon County, ID"	"16027"	"2021"	"2021"	3256	0.89%	Not Available	Not Available	Not Available	Not Available	28.10	5.48
+	"Idaho"	"16"	"Canyon County, ID"	"16027"	"2022"	"2022"	3375	0.92%	Not Available	Not Available	Not Available	Not Available	28.23	5.52
+	"Idaho"	"16"	"Kootenai County, ID"	"16055"	"2007"	"2007"	1745	0.48%	132811	13.14	25411	68.67	26.77	5.71
+	"Idaho"	"16"	"Kootenai County, ID"	"16055"	"2008"	"2008"	1809	0.50%	135627	13.34	25741	70.28	26.71	5.69
+	"Idaho"	"16"	"Kootenai County, ID"	"16055"	"2009"	"2009"	1772	0.49%	137407	12.90	25852	68.54	26.88	5.74
+	"Idaho"	"16"	"Kootenai County, ID"	"16055"	"2010"	"2010"	1723	0.47%	138494	12.44	25893	66.54	27.14	5.67
+	"Idaho"	"16"	"Kootenai County, ID"	"16055"	"2011"	"2011"	1647	0.45%	141132	11.67	26088	63.13	27.25	5.50
+	"Idaho"	"16"	"Kootenai County, ID"	"16055"	"2012"	"2012"	1746	0.48%	142357	12.26	26369	66.21	27.45	5.63
+	"Idaho"	"16"	"Kootenai County, ID"	"16055"	"2013"	"2013"	1710	0.47%	144265	11.85	26486	64.56	27.31	5.46
+	"Idaho"	"16"	"Kootenai County, ID"	"16055"	"2014"	"2014"	1792	0.49%	147326	12.16	26804	66.86	27.75	5.54
+	"Idaho"	"16"	"Kootenai County, ID"	"16055"	"2015"	"2015"	1856	0.51%	150346	12.34	27192	68.26	27.75	5.45
+	"Idaho"	"16"	"Kootenai County, ID"	"16055"	"2016"	"2016"	1754	0.48%	154311	11.37	27867	62.94	28.01	5.54
+	"Idaho"	"16"	"Kootenai County, ID"	"16055"	"2017"	"2017"	1811	0.50%	157637	11.49	28400	63.77	28.33	5.48
+	"Idaho"	"16"	"Kootenai County, ID"	"16055"	"2018"	"2018"	1732	0.47%	161505	10.72	29107	59.50	28.46	5.48
+	"Idaho"	"16"	"Kootenai County, ID"	"16055"	"2019"	"2019"	1861	0.51%	165697	11.23	29879	62.28	28.57	5.48
+	"Idaho"	"16"	"Kootenai County, ID"	"16055"	"2020"	"2020"	1830	0.50%	170628	10.73	30828	59.36	28.85	5.36
+	"Idaho"	"16"	"Kootenai County, ID"	"16055"	"2021"	"2021"	1882	0.52%	Not Available	Not Available	Not Available	Not Available	29.26	5.29
+	"Idaho"	"16"	"Kootenai County, ID"	"16055"	"2022"	"2022"	1906	0.52%	Not Available	Not Available	Not Available	Not Available	29.30	5.49
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"2007"	"2007"	13778	3.78%	817281	16.86	159202	86.54	26.27	5.55
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"2008"	"2008"	14119	3.87%	831079	16.99	160327	88.06	26.29	5.45
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"2009"	"2009"	13507	3.70%	841098	16.06	160856	83.97	26.40	5.49
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"2010"	"2010"	13275	3.64%	847800	15.66	161126	82.39	26.62	5.47
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"2011"	"2011"	12486	3.42%	851317	14.67	161753	77.19	26.73	5.45
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"2012"	"2012"	13046	3.57%	850422	15.34	160613	81.23	26.88	5.47
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"2013"	"2013"	12599	3.45%	852536	14.78	160213	78.64	27.02	5.47
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"2014"	"2014"	10869	2.98%	749136	14.51	139499	77.91	27.09	5.50
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"2015"	"2015"	10701	2.93%	752806	14.21	139772	76.56	27.30	5.52
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"2016"	"2016"	10644	2.92%	760871	13.99	141021	75.48	27.41	5.53
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"2017"	"2017"	10587	2.90%	771163	13.73	143067	74.00	27.43	5.50
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"2018"	"2018"	10077	2.76%	782384	12.88	145955	69.04	27.50	5.51
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"2019"	"2019"	10393	2.85%	790870	13.14	147822	70.31	27.68	5.49
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"2020"	"2020"	9844	2.70%	802699	12.26	150423	65.44	27.72	5.55
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"2021"	"2021"	10385	2.85%	Not Available	Not Available	Not Available	Not Available	27.80	5.49
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"2022"	"2022"	10379	2.84%	Not Available	Not Available	Not Available	Not Available	28.03	5.57
+"---"
+"Dataset: Natality, 2007-2022"
+"Query Parameters:"
+"States: Idaho (16)"
+"Group By: State; County; Year"
+"Show Totals: False"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 1,000"
+"Population Option: Default intercensal populations for years 2007-2009"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality.html for more information."
+"---"
+"Query Date: Aug 12, 2024 10:04:06 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2022, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-current.html on Aug 12, 2024 10:04:06 AM"
+"---"
+Caveats:
+"1. 'Not Available' appears when the denominator population for a rate measure is not available."
+"2. 'Missing County' appears when county data is not available for a certain year. This occurs because the county did not meet"
+"minimum population standards and thus the data for the county was recoded to the ""Unidentified Counties"" category for the"
+"state of the county. More information: http://wonder.cdc.gov/wonder/help/Natality.html#Locations."
+"3. Each birth record represents one liveborn infant."
+"4. County-level data are shown only for counties with populations of 100,000 persons or more. Within each state, data for all"
+"counties with fewer than 100,000 persons are combined together under the label ""Unidentified Counties""."
+"5. Birth rates are calculated as the number of births divided by total population in the given year(s). When the numerator is"
+"sub-set by mother's race, mother's hispanicity, location, or year of birth, then the same sub-set for age, race, hispanicity,"
+"location and year applies to the denominator population."
+"6. Fertility rates are calculated as the number of births divided by the number of females age 15 - 44 years old in the given"
+"year(s). When the numerator is sub-set by mother's age, mother's race, mother's hispanicity, location, or year of birth, then"
+"the same sub-set for age, race, hispanicity, location and year applies to the denominator population. However, if you sub-set"
+"mother's age selecting some years not in the 15 - 44 range, those years of mother's age ouside this range will not be included"
+"in the denominator population. If you sub-set mother's age selecting only years outside the 15 - 44 range, ""Not Available"" is"
+"reported for the denominator population. Single race categories are not available for births before year 2016. Bridged race"
+"categories are not available for births after year 2019."
+"7. <p> As a result of population changes the following counties do not have data available for all years.<br/> Before 2014 the"
+"data for the following counties was recoded to the ""Unidentified Counties"" category within the state of the county because"
+"they did not meet minimum population standards. Houston County, AL (01069); Navajo County, AZ (04017); Faulkner County, AR"
+"(05045); Saline County, AR (05125); Bartow County, GA (13015); Carroll County, GA (13045); Columbia County, GA (13073); Coweta"
+"County, GA (13077); Douglas County, GA (13097); Fayette County, GA (13113); Forsyth County, GA (13117); Lowndes County, GA"
+"(13185); Paulding County, GA (13223); Whitfield County, GA (13313); Bonneville County, ID (16019); DeKalb County, IL (17037);"
+"Kendall County, IL (17093); Clark County, IN (18019); Douglas County, KS (20045); Boone County, KY (21015); Hardin County, KY"
+"(21093); Warren County, KY (21227); Ascension Parish, LA (22005); Bossier Parish, LA (22015); Livingston Parish, LA (22063);"
+"Cecil County, MD (24015); St. Mary's County, MD (24037); Scott County, MN (27139); Wright County, MN (27171); Franklin County,"
+"MO (29071); Missoula County, MT (30063); Sandoval County, NM (35043); Tompkins County, NY (36109); Brunswick County, NC (37019);"
+"Craven County, NC (37049); Harnett County, NC (37085); Henderson County, NC (37089); Miami County, OH (39109); Canadian County,"
+"OK (40017); Adams County, PA (42001); Dorchester County, SC (45035); Pennington County, SD (46103); Wilson County, TN (47189);"
+"Comal County, TX (48091); Guadalupe County, TX (48187); Hays County, TX (48209); Kaufman County, TX (48257); Parker County, TX"
+"(48367); Cache County, UT (49005); Washington County, UT (49053); Spotsylvania County, VA (51177); Stafford County, VA (51179);"
+"Cowlitz County, WA (53015); Berkeley County, WV (54003); Fond du Lac County, WI (55039); Walworth County, WI (55127). </p> <p>"
+"After 2013 the data for the following counties was recoded to the ""Unidentified Counties"" category within the state of the"
+"county because they did not meet minimum population standards. Cape May County, NJ (34009); Portsmouth city, VA (51740). </p>"
+"8. Caution should be used when interpreting the Average Age of Mother measure. All ages 12 years and less are coded to 12 years."
+"All ages 50 years and over are coded to 50 years. The number of counts in those two age goups are small and should not have a"
+"great effect on the average age. Consider doing queries with and without these two age groups and compare the effect on Average"
+"Age of Mother measure."
+"9. Please note that the Percent of Total presented here may not be consistent with percentages published by NCHS. NCHS excludes"
+"births categorized as ""Unknown"", ""Not Stated"", ""Not on Certificate"", ""Excluded"", and ""Not Reported"" from the"
+"denominator when calculating percentages."
+"10. Birth rates and fertility rates are calculated using the following populations: The populations for year 2021 are from the"
+"postcensal single race series of July 1st estimates of the resident population, released by Census Bureau on June 30, 2022. The"
+"2021 population estimates are based on the Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial"
+"population count. Bridged race population figures are not available for year 2021. The populations for year 2020 are from the"
+"postcensal single-race series of July 1st estimates of the resident population, released by Census Bureau on July 27, 2021; and"
+"the postcensal bridged-race series of July 1st estimates of the resident population, released by NCHS on September 22, 2021 (for"
+"fertility rate denominators by detailed age groups). The populations for year 2019 are from the postcensal single-race series of"
+"July 1st estimates of the resident population, released by Census Bureau on June 25, 2020; and the postcensal bridged-race"
+"series of July 1st estimates of the resident population, released by NCHS on July 9, 2020. The populations for year 2018 are"
+"from the postcensal single-race series of July 1st estimates of the resident population, released by Census Bureau on June 21,"
+"2019; and the postcensal bridged-race series of July 1st estimates of the resident population, released by NCHS on June 27,"
+"2019. The populations for year 2017 are from the postcensal single-race series of July 1st estimates of the resident population,"
+"released by Census Bureau on June 21, 2018; and the postcensal bridged-race series of July 1st estimates of the resident"
+"population, released by NCHS on June 27, 2018. The populations for year 2016 are from the postcensal single-race series of July"
+"1st estimates of the resident population, released by Census Bureau on June 22, 2017; and the postcensal bridged-race series of"
+"July 1st estimates of the resident population, released by NCHS on June 26, 2017. The populations for year 2015 are from the"
+"postcensal bridged-race series of July 1st estimates of the resident population, released by NCHS on June 28, 2016. The"
+"populations for year 2014 are from the postcensal bridged-race series of July 1st estimates of the resident population, released"
+"by NCHS on June 30, 2015. The populations for year 2013 are from the postcensal bridged-race series of July 1st estimates of the"
+"resident population, released by NCHS on June 26, 2014. The populations for year 2012 are from the postcensal bridged-race"
+"series of July 1st estimates of the resident population, released by NCHS on June 13, 2013. The populations for year 2011 are"
+"from the postcensal bridged-race series of July 1st estimates of the resident population, released by NCHS on July 18, 2012. The"
+"populations for year 2010 are the bridged-race April 1, 2010 Census counts. The populations for years 2007-2009 are from the"
+"revised intercensal bridged-race series of July 1st estimates of the resident population, released by NCHS on October 26, 2012."
+"More information: http://wonder.cdc.gov/wonder/help/Natality.html#Denominator-Population-Sources."

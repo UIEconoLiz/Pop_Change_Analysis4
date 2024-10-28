@@ -1,0 +1,766 @@
+"Notes"	"Residence State"	"Residence State Code"	"Year"	"Year Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	% of Total Deaths
+	"Idaho"	"16"	"2018"	"2018"	"< 1 year"	"0"	109	0.1%
+	"Idaho"	"16"	"2018"	"2018"	"1 year"	"1"	Suppressed	Suppressed
+	"Idaho"	"16"	"2018"	"2018"	"2 years"	"2"	Suppressed	Suppressed
+	"Idaho"	"16"	"2018"	"2018"	"3 years"	"3"	Suppressed	Suppressed
+	"Idaho"	"16"	"2018"	"2018"	"4 years"	"4"	Suppressed	Suppressed
+	"Idaho"	"16"	"2018"	"2018"	"5 years"	"5"	Suppressed	Suppressed
+	"Idaho"	"16"	"2018"	"2018"	"6 years"	"6"	Suppressed	Suppressed
+	"Idaho"	"16"	"2018"	"2018"	"7 years"	"7"	Suppressed	Suppressed
+	"Idaho"	"16"	"2018"	"2018"	"8 years"	"8"	Suppressed	Suppressed
+	"Idaho"	"16"	"2018"	"2018"	"9 years"	"9"	Suppressed	Suppressed
+	"Idaho"	"16"	"2018"	"2018"	"10 years"	"10"	Suppressed	Suppressed
+	"Idaho"	"16"	"2018"	"2018"	"11 years"	"11"	Suppressed	Suppressed
+	"Idaho"	"16"	"2018"	"2018"	"12 years"	"12"	Suppressed	Suppressed
+	"Idaho"	"16"	"2018"	"2018"	"13 years"	"13"	Suppressed	Suppressed
+	"Idaho"	"16"	"2018"	"2018"	"14 years"	"14"	Suppressed	Suppressed
+	"Idaho"	"16"	"2018"	"2018"	"15 years"	"15"	13	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"16 years"	"16"	14	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"17 years"	"17"	18	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"18 years"	"18"	19	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"19 years"	"19"	23	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"20 years"	"20"	26	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"21 years"	"21"	30	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"22 years"	"22"	32	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"23 years"	"23"	30	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"24 years"	"24"	26	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"25 years"	"25"	29	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"26 years"	"26"	26	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"27 years"	"27"	27	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"28 years"	"28"	22	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"29 years"	"29"	18	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"30 years"	"30"	16	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"31 years"	"31"	34	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"32 years"	"32"	19	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"33 years"	"33"	22	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"34 years"	"34"	27	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"35 years"	"35"	34	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"36 years"	"36"	32	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"37 years"	"37"	31	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"38 years"	"38"	42	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"39 years"	"39"	47	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"40 years"	"40"	27	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"41 years"	"41"	36	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"42 years"	"42"	34	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"43 years"	"43"	50	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"44 years"	"44"	39	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"45 years"	"45"	40	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"46 years"	"46"	50	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"47 years"	"47"	52	0.0%
+	"Idaho"	"16"	"2018"	"2018"	"48 years"	"48"	63	0.1%
+	"Idaho"	"16"	"2018"	"2018"	"49 years"	"49"	80	0.1%
+	"Idaho"	"16"	"2018"	"2018"	"50 years"	"50"	85	0.1%
+	"Idaho"	"16"	"2018"	"2018"	"51 years"	"51"	85	0.1%
+	"Idaho"	"16"	"2018"	"2018"	"52 years"	"52"	84	0.1%
+	"Idaho"	"16"	"2018"	"2018"	"53 years"	"53"	95	0.1%
+	"Idaho"	"16"	"2018"	"2018"	"54 years"	"54"	104	0.1%
+	"Idaho"	"16"	"2018"	"2018"	"55 years"	"55"	103	0.1%
+	"Idaho"	"16"	"2018"	"2018"	"56 years"	"56"	116	0.1%
+	"Idaho"	"16"	"2018"	"2018"	"57 years"	"57"	120	0.1%
+	"Idaho"	"16"	"2018"	"2018"	"58 years"	"58"	163	0.2%
+	"Idaho"	"16"	"2018"	"2018"	"59 years"	"59"	139	0.1%
+	"Idaho"	"16"	"2018"	"2018"	"60 years"	"60"	208	0.2%
+	"Idaho"	"16"	"2018"	"2018"	"61 years"	"61"	179	0.2%
+	"Idaho"	"16"	"2018"	"2018"	"62 years"	"62"	187	0.2%
+	"Idaho"	"16"	"2018"	"2018"	"63 years"	"63"	230	0.2%
+	"Idaho"	"16"	"2018"	"2018"	"64 years"	"64"	222	0.2%
+	"Idaho"	"16"	"2018"	"2018"	"65 years"	"65"	273	0.3%
+	"Idaho"	"16"	"2018"	"2018"	"66 years"	"66"	265	0.2%
+	"Idaho"	"16"	"2018"	"2018"	"67 years"	"67"	230	0.2%
+	"Idaho"	"16"	"2018"	"2018"	"68 years"	"68"	262	0.2%
+	"Idaho"	"16"	"2018"	"2018"	"69 years"	"69"	297	0.3%
+	"Idaho"	"16"	"2018"	"2018"	"70 years"	"70"	310	0.3%
+	"Idaho"	"16"	"2018"	"2018"	"71 years"	"71"	335	0.3%
+	"Idaho"	"16"	"2018"	"2018"	"72 years"	"72"	272	0.3%
+	"Idaho"	"16"	"2018"	"2018"	"73 years"	"73"	277	0.3%
+	"Idaho"	"16"	"2018"	"2018"	"74 years"	"74"	296	0.3%
+	"Idaho"	"16"	"2018"	"2018"	"75 years"	"75"	316	0.3%
+	"Idaho"	"16"	"2018"	"2018"	"76 years"	"76"	347	0.3%
+	"Idaho"	"16"	"2018"	"2018"	"77 years"	"77"	341	0.3%
+	"Idaho"	"16"	"2018"	"2018"	"78 years"	"78"	369	0.3%
+	"Idaho"	"16"	"2018"	"2018"	"79 years"	"79"	332	0.3%
+	"Idaho"	"16"	"2018"	"2018"	"80 years"	"80"	341	0.3%
+	"Idaho"	"16"	"2018"	"2018"	"81 years"	"81"	364	0.3%
+	"Idaho"	"16"	"2018"	"2018"	"82 years"	"82"	375	0.4%
+	"Idaho"	"16"	"2018"	"2018"	"83 years"	"83"	374	0.4%
+	"Idaho"	"16"	"2018"	"2018"	"84 years"	"84"	379	0.4%
+	"Idaho"	"16"	"2018"	"2018"	"85 years"	"85"	397	0.4%
+	"Idaho"	"16"	"2018"	"2018"	"86 years"	"86"	397	0.4%
+	"Idaho"	"16"	"2018"	"2018"	"87 years"	"87"	393	0.4%
+	"Idaho"	"16"	"2018"	"2018"	"88 years"	"88"	399	0.4%
+	"Idaho"	"16"	"2018"	"2018"	"89 years"	"89"	384	0.4%
+	"Idaho"	"16"	"2018"	"2018"	"90 years"	"90"	370	0.3%
+	"Idaho"	"16"	"2018"	"2018"	"91 years"	"91"	361	0.3%
+	"Idaho"	"16"	"2018"	"2018"	"92 years"	"92"	334	0.3%
+	"Idaho"	"16"	"2018"	"2018"	"93 years"	"93"	297	0.3%
+	"Idaho"	"16"	"2018"	"2018"	"94 years"	"94"	284	0.3%
+	"Idaho"	"16"	"2018"	"2018"	"95 years"	"95"	226	0.2%
+	"Idaho"	"16"	"2018"	"2018"	"96 years"	"96"	187	0.2%
+	"Idaho"	"16"	"2018"	"2018"	"97 years"	"97"	148	0.1%
+	"Idaho"	"16"	"2018"	"2018"	"98 years"	"98"	115	0.1%
+	"Idaho"	"16"	"2018"	"2018"	"99 years"	"99"	60	0.1%
+	"Idaho"	"16"	"2018"	"2018"	"100+ years"	"100"	145	0.1%
+	"Idaho"	"16"	"2018"	"2018"	"Not Stated"	"NS"	0	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"< 1 year"	"0"	97	0.1%
+	"Idaho"	"16"	"2019"	"2019"	"1 year"	"1"	Suppressed	Suppressed
+	"Idaho"	"16"	"2019"	"2019"	"2 years"	"2"	Suppressed	Suppressed
+	"Idaho"	"16"	"2019"	"2019"	"3 years"	"3"	Suppressed	Suppressed
+	"Idaho"	"16"	"2019"	"2019"	"4 years"	"4"	Suppressed	Suppressed
+	"Idaho"	"16"	"2019"	"2019"	"5 years"	"5"	Suppressed	Suppressed
+	"Idaho"	"16"	"2019"	"2019"	"6 years"	"6"	Suppressed	Suppressed
+	"Idaho"	"16"	"2019"	"2019"	"7 years"	"7"	Suppressed	Suppressed
+	"Idaho"	"16"	"2019"	"2019"	"8 years"	"8"	11	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"9 years"	"9"	10	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"10 years"	"10"	Suppressed	Suppressed
+	"Idaho"	"16"	"2019"	"2019"	"11 years"	"11"	Suppressed	Suppressed
+	"Idaho"	"16"	"2019"	"2019"	"12 years"	"12"	Suppressed	Suppressed
+	"Idaho"	"16"	"2019"	"2019"	"13 years"	"13"	Suppressed	Suppressed
+	"Idaho"	"16"	"2019"	"2019"	"14 years"	"14"	Suppressed	Suppressed
+	"Idaho"	"16"	"2019"	"2019"	"15 years"	"15"	Suppressed	Suppressed
+	"Idaho"	"16"	"2019"	"2019"	"16 years"	"16"	13	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"17 years"	"17"	10	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"18 years"	"18"	Suppressed	Suppressed
+	"Idaho"	"16"	"2019"	"2019"	"19 years"	"19"	19	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"20 years"	"20"	17	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"21 years"	"21"	27	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"22 years"	"22"	22	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"23 years"	"23"	26	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"24 years"	"24"	16	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"25 years"	"25"	19	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"26 years"	"26"	22	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"27 years"	"27"	17	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"28 years"	"28"	21	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"29 years"	"29"	30	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"30 years"	"30"	20	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"31 years"	"31"	26	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"32 years"	"32"	26	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"33 years"	"33"	28	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"34 years"	"34"	17	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"35 years"	"35"	27	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"36 years"	"36"	25	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"37 years"	"37"	34	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"38 years"	"38"	45	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"39 years"	"39"	39	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"40 years"	"40"	34	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"41 years"	"41"	39	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"42 years"	"42"	40	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"43 years"	"43"	37	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"44 years"	"44"	52	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"45 years"	"45"	51	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"46 years"	"46"	46	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"47 years"	"47"	51	0.0%
+	"Idaho"	"16"	"2019"	"2019"	"48 years"	"48"	68	0.1%
+	"Idaho"	"16"	"2019"	"2019"	"49 years"	"49"	57	0.1%
+	"Idaho"	"16"	"2019"	"2019"	"50 years"	"50"	69	0.1%
+	"Idaho"	"16"	"2019"	"2019"	"51 years"	"51"	66	0.1%
+	"Idaho"	"16"	"2019"	"2019"	"52 years"	"52"	69	0.1%
+	"Idaho"	"16"	"2019"	"2019"	"53 years"	"53"	100	0.1%
+	"Idaho"	"16"	"2019"	"2019"	"54 years"	"54"	88	0.1%
+	"Idaho"	"16"	"2019"	"2019"	"55 years"	"55"	109	0.1%
+	"Idaho"	"16"	"2019"	"2019"	"56 years"	"56"	132	0.1%
+	"Idaho"	"16"	"2019"	"2019"	"57 years"	"57"	127	0.1%
+	"Idaho"	"16"	"2019"	"2019"	"58 years"	"58"	149	0.1%
+	"Idaho"	"16"	"2019"	"2019"	"59 years"	"59"	159	0.1%
+	"Idaho"	"16"	"2019"	"2019"	"60 years"	"60"	178	0.2%
+	"Idaho"	"16"	"2019"	"2019"	"61 years"	"61"	196	0.2%
+	"Idaho"	"16"	"2019"	"2019"	"62 years"	"62"	177	0.2%
+	"Idaho"	"16"	"2019"	"2019"	"63 years"	"63"	190	0.2%
+	"Idaho"	"16"	"2019"	"2019"	"64 years"	"64"	231	0.2%
+	"Idaho"	"16"	"2019"	"2019"	"65 years"	"65"	214	0.2%
+	"Idaho"	"16"	"2019"	"2019"	"66 years"	"66"	242	0.2%
+	"Idaho"	"16"	"2019"	"2019"	"67 years"	"67"	252	0.2%
+	"Idaho"	"16"	"2019"	"2019"	"68 years"	"68"	276	0.3%
+	"Idaho"	"16"	"2019"	"2019"	"69 years"	"69"	244	0.2%
+	"Idaho"	"16"	"2019"	"2019"	"70 years"	"70"	286	0.3%
+	"Idaho"	"16"	"2019"	"2019"	"71 years"	"71"	293	0.3%
+	"Idaho"	"16"	"2019"	"2019"	"72 years"	"72"	361	0.3%
+	"Idaho"	"16"	"2019"	"2019"	"73 years"	"73"	293	0.3%
+	"Idaho"	"16"	"2019"	"2019"	"74 years"	"74"	314	0.3%
+	"Idaho"	"16"	"2019"	"2019"	"75 years"	"75"	366	0.3%
+	"Idaho"	"16"	"2019"	"2019"	"76 years"	"76"	416	0.4%
+	"Idaho"	"16"	"2019"	"2019"	"77 years"	"77"	380	0.4%
+	"Idaho"	"16"	"2019"	"2019"	"78 years"	"78"	348	0.3%
+	"Idaho"	"16"	"2019"	"2019"	"79 years"	"79"	371	0.3%
+	"Idaho"	"16"	"2019"	"2019"	"80 years"	"80"	398	0.4%
+	"Idaho"	"16"	"2019"	"2019"	"81 years"	"81"	397	0.4%
+	"Idaho"	"16"	"2019"	"2019"	"82 years"	"82"	413	0.4%
+	"Idaho"	"16"	"2019"	"2019"	"83 years"	"83"	403	0.4%
+	"Idaho"	"16"	"2019"	"2019"	"84 years"	"84"	398	0.4%
+	"Idaho"	"16"	"2019"	"2019"	"85 years"	"85"	403	0.4%
+	"Idaho"	"16"	"2019"	"2019"	"86 years"	"86"	404	0.4%
+	"Idaho"	"16"	"2019"	"2019"	"87 years"	"87"	433	0.4%
+	"Idaho"	"16"	"2019"	"2019"	"88 years"	"88"	373	0.4%
+	"Idaho"	"16"	"2019"	"2019"	"89 years"	"89"	414	0.4%
+	"Idaho"	"16"	"2019"	"2019"	"90 years"	"90"	389	0.4%
+	"Idaho"	"16"	"2019"	"2019"	"91 years"	"91"	333	0.3%
+	"Idaho"	"16"	"2019"	"2019"	"92 years"	"92"	324	0.3%
+	"Idaho"	"16"	"2019"	"2019"	"93 years"	"93"	280	0.3%
+	"Idaho"	"16"	"2019"	"2019"	"94 years"	"94"	260	0.2%
+	"Idaho"	"16"	"2019"	"2019"	"95 years"	"95"	227	0.2%
+	"Idaho"	"16"	"2019"	"2019"	"96 years"	"96"	192	0.2%
+	"Idaho"	"16"	"2019"	"2019"	"97 years"	"97"	138	0.1%
+	"Idaho"	"16"	"2019"	"2019"	"98 years"	"98"	131	0.1%
+	"Idaho"	"16"	"2019"	"2019"	"99 years"	"99"	69	0.1%
+	"Idaho"	"16"	"2019"	"2019"	"100+ years"	"100"	141	0.1%
+	"Idaho"	"16"	"2019"	"2019"	"Not Stated"	"NS"	0	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"< 1 year"	"0"	109	0.1%
+	"Idaho"	"16"	"2020"	"2020"	"1 year"	"1"	Suppressed	Suppressed
+	"Idaho"	"16"	"2020"	"2020"	"2 years"	"2"	Suppressed	Suppressed
+	"Idaho"	"16"	"2020"	"2020"	"3 years"	"3"	Suppressed	Suppressed
+	"Idaho"	"16"	"2020"	"2020"	"4 years"	"4"	Suppressed	Suppressed
+	"Idaho"	"16"	"2020"	"2020"	"5 years"	"5"	Suppressed	Suppressed
+	"Idaho"	"16"	"2020"	"2020"	"6 years"	"6"	Suppressed	Suppressed
+	"Idaho"	"16"	"2020"	"2020"	"7 years"	"7"	Suppressed	Suppressed
+	"Idaho"	"16"	"2020"	"2020"	"8 years"	"8"	0	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"9 years"	"9"	Suppressed	Suppressed
+	"Idaho"	"16"	"2020"	"2020"	"10 years"	"10"	Suppressed	Suppressed
+	"Idaho"	"16"	"2020"	"2020"	"11 years"	"11"	Suppressed	Suppressed
+	"Idaho"	"16"	"2020"	"2020"	"12 years"	"12"	Suppressed	Suppressed
+	"Idaho"	"16"	"2020"	"2020"	"13 years"	"13"	Suppressed	Suppressed
+	"Idaho"	"16"	"2020"	"2020"	"14 years"	"14"	Suppressed	Suppressed
+	"Idaho"	"16"	"2020"	"2020"	"15 years"	"15"	15	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"16 years"	"16"	15	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"17 years"	"17"	21	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"18 years"	"18"	19	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"19 years"	"19"	17	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"20 years"	"20"	17	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"21 years"	"21"	26	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"22 years"	"22"	18	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"23 years"	"23"	27	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"24 years"	"24"	22	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"25 years"	"25"	23	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"26 years"	"26"	23	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"27 years"	"27"	22	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"28 years"	"28"	30	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"29 years"	"29"	29	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"30 years"	"30"	29	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"31 years"	"31"	36	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"32 years"	"32"	29	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"33 years"	"33"	32	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"34 years"	"34"	39	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"35 years"	"35"	39	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"36 years"	"36"	44	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"37 years"	"37"	45	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"38 years"	"38"	44	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"39 years"	"39"	47	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"40 years"	"40"	48	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"41 years"	"41"	41	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"42 years"	"42"	45	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"43 years"	"43"	55	0.1%
+	"Idaho"	"16"	"2020"	"2020"	"44 years"	"44"	48	0.0%
+	"Idaho"	"16"	"2020"	"2020"	"45 years"	"45"	60	0.1%
+	"Idaho"	"16"	"2020"	"2020"	"46 years"	"46"	59	0.1%
+	"Idaho"	"16"	"2020"	"2020"	"47 years"	"47"	70	0.1%
+	"Idaho"	"16"	"2020"	"2020"	"48 years"	"48"	75	0.1%
+	"Idaho"	"16"	"2020"	"2020"	"49 years"	"49"	61	0.1%
+	"Idaho"	"16"	"2020"	"2020"	"50 years"	"50"	85	0.1%
+	"Idaho"	"16"	"2020"	"2020"	"51 years"	"51"	92	0.1%
+	"Idaho"	"16"	"2020"	"2020"	"52 years"	"52"	72	0.1%
+	"Idaho"	"16"	"2020"	"2020"	"53 years"	"53"	101	0.1%
+	"Idaho"	"16"	"2020"	"2020"	"54 years"	"54"	97	0.1%
+	"Idaho"	"16"	"2020"	"2020"	"55 years"	"55"	117	0.1%
+	"Idaho"	"16"	"2020"	"2020"	"56 years"	"56"	133	0.1%
+	"Idaho"	"16"	"2020"	"2020"	"57 years"	"57"	156	0.1%
+	"Idaho"	"16"	"2020"	"2020"	"58 years"	"58"	158	0.1%
+	"Idaho"	"16"	"2020"	"2020"	"59 years"	"59"	183	0.2%
+	"Idaho"	"16"	"2020"	"2020"	"60 years"	"60"	196	0.2%
+	"Idaho"	"16"	"2020"	"2020"	"61 years"	"61"	204	0.2%
+	"Idaho"	"16"	"2020"	"2020"	"62 years"	"62"	246	0.2%
+	"Idaho"	"16"	"2020"	"2020"	"63 years"	"63"	227	0.2%
+	"Idaho"	"16"	"2020"	"2020"	"64 years"	"64"	248	0.2%
+	"Idaho"	"16"	"2020"	"2020"	"65 years"	"65"	230	0.2%
+	"Idaho"	"16"	"2020"	"2020"	"66 years"	"66"	278	0.3%
+	"Idaho"	"16"	"2020"	"2020"	"67 years"	"67"	288	0.3%
+	"Idaho"	"16"	"2020"	"2020"	"68 years"	"68"	300	0.3%
+	"Idaho"	"16"	"2020"	"2020"	"69 years"	"69"	259	0.2%
+	"Idaho"	"16"	"2020"	"2020"	"70 years"	"70"	307	0.3%
+	"Idaho"	"16"	"2020"	"2020"	"71 years"	"71"	378	0.4%
+	"Idaho"	"16"	"2020"	"2020"	"72 years"	"72"	385	0.4%
+	"Idaho"	"16"	"2020"	"2020"	"73 years"	"73"	465	0.4%
+	"Idaho"	"16"	"2020"	"2020"	"74 years"	"74"	360	0.3%
+	"Idaho"	"16"	"2020"	"2020"	"75 years"	"75"	365	0.3%
+	"Idaho"	"16"	"2020"	"2020"	"76 years"	"76"	401	0.4%
+	"Idaho"	"16"	"2020"	"2020"	"77 years"	"77"	468	0.4%
+	"Idaho"	"16"	"2020"	"2020"	"78 years"	"78"	447	0.4%
+	"Idaho"	"16"	"2020"	"2020"	"79 years"	"79"	429	0.4%
+	"Idaho"	"16"	"2020"	"2020"	"80 years"	"80"	442	0.4%
+	"Idaho"	"16"	"2020"	"2020"	"81 years"	"81"	464	0.4%
+	"Idaho"	"16"	"2020"	"2020"	"82 years"	"82"	442	0.4%
+	"Idaho"	"16"	"2020"	"2020"	"83 years"	"83"	483	0.5%
+	"Idaho"	"16"	"2020"	"2020"	"84 years"	"84"	439	0.4%
+	"Idaho"	"16"	"2020"	"2020"	"85 years"	"85"	437	0.4%
+	"Idaho"	"16"	"2020"	"2020"	"86 years"	"86"	434	0.4%
+	"Idaho"	"16"	"2020"	"2020"	"87 years"	"87"	463	0.4%
+	"Idaho"	"16"	"2020"	"2020"	"88 years"	"88"	477	0.4%
+	"Idaho"	"16"	"2020"	"2020"	"89 years"	"89"	419	0.4%
+	"Idaho"	"16"	"2020"	"2020"	"90 years"	"90"	445	0.4%
+	"Idaho"	"16"	"2020"	"2020"	"91 years"	"91"	388	0.4%
+	"Idaho"	"16"	"2020"	"2020"	"92 years"	"92"	359	0.3%
+	"Idaho"	"16"	"2020"	"2020"	"93 years"	"93"	340	0.3%
+	"Idaho"	"16"	"2020"	"2020"	"94 years"	"94"	267	0.3%
+	"Idaho"	"16"	"2020"	"2020"	"95 years"	"95"	259	0.2%
+	"Idaho"	"16"	"2020"	"2020"	"96 years"	"96"	198	0.2%
+	"Idaho"	"16"	"2020"	"2020"	"97 years"	"97"	160	0.2%
+	"Idaho"	"16"	"2020"	"2020"	"98 years"	"98"	106	0.1%
+	"Idaho"	"16"	"2020"	"2020"	"99 years"	"99"	108	0.1%
+	"Idaho"	"16"	"2020"	"2020"	"100+ years"	"100"	163	0.2%
+	"Idaho"	"16"	"2020"	"2020"	"Not Stated"	"NS"	0	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"< 1 year"	"0"	117	0.1%
+	"Idaho"	"16"	"2021"	"2021"	"1 year"	"1"	11	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"2 years"	"2"	10	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"3 years"	"3"	Suppressed	Suppressed
+	"Idaho"	"16"	"2021"	"2021"	"4 years"	"4"	Suppressed	Suppressed
+	"Idaho"	"16"	"2021"	"2021"	"5 years"	"5"	Suppressed	Suppressed
+	"Idaho"	"16"	"2021"	"2021"	"6 years"	"6"	Suppressed	Suppressed
+	"Idaho"	"16"	"2021"	"2021"	"7 years"	"7"	0	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"8 years"	"8"	Suppressed	Suppressed
+	"Idaho"	"16"	"2021"	"2021"	"9 years"	"9"	0	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"10 years"	"10"	Suppressed	Suppressed
+	"Idaho"	"16"	"2021"	"2021"	"11 years"	"11"	Suppressed	Suppressed
+	"Idaho"	"16"	"2021"	"2021"	"12 years"	"12"	Suppressed	Suppressed
+	"Idaho"	"16"	"2021"	"2021"	"13 years"	"13"	Suppressed	Suppressed
+	"Idaho"	"16"	"2021"	"2021"	"14 years"	"14"	11	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"15 years"	"15"	Suppressed	Suppressed
+	"Idaho"	"16"	"2021"	"2021"	"16 years"	"16"	13	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"17 years"	"17"	21	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"18 years"	"18"	19	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"19 years"	"19"	21	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"20 years"	"20"	26	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"21 years"	"21"	27	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"22 years"	"22"	36	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"23 years"	"23"	25	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"24 years"	"24"	26	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"25 years"	"25"	36	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"26 years"	"26"	49	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"27 years"	"27"	31	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"28 years"	"28"	28	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"29 years"	"29"	31	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"30 years"	"30"	36	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"31 years"	"31"	46	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"32 years"	"32"	36	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"33 years"	"33"	43	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"34 years"	"34"	44	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"35 years"	"35"	58	0.1%
+	"Idaho"	"16"	"2021"	"2021"	"36 years"	"36"	49	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"37 years"	"37"	51	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"38 years"	"38"	49	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"39 years"	"39"	50	0.0%
+	"Idaho"	"16"	"2021"	"2021"	"40 years"	"40"	67	0.1%
+	"Idaho"	"16"	"2021"	"2021"	"41 years"	"41"	54	0.1%
+	"Idaho"	"16"	"2021"	"2021"	"42 years"	"42"	63	0.1%
+	"Idaho"	"16"	"2021"	"2021"	"43 years"	"43"	71	0.1%
+	"Idaho"	"16"	"2021"	"2021"	"44 years"	"44"	57	0.1%
+	"Idaho"	"16"	"2021"	"2021"	"45 years"	"45"	68	0.1%
+	"Idaho"	"16"	"2021"	"2021"	"46 years"	"46"	64	0.1%
+	"Idaho"	"16"	"2021"	"2021"	"47 years"	"47"	68	0.1%
+	"Idaho"	"16"	"2021"	"2021"	"48 years"	"48"	91	0.1%
+	"Idaho"	"16"	"2021"	"2021"	"49 years"	"49"	103	0.1%
+	"Idaho"	"16"	"2021"	"2021"	"50 years"	"50"	102	0.1%
+	"Idaho"	"16"	"2021"	"2021"	"51 years"	"51"	136	0.1%
+	"Idaho"	"16"	"2021"	"2021"	"52 years"	"52"	119	0.1%
+	"Idaho"	"16"	"2021"	"2021"	"53 years"	"53"	110	0.1%
+	"Idaho"	"16"	"2021"	"2021"	"54 years"	"54"	126	0.1%
+	"Idaho"	"16"	"2021"	"2021"	"55 years"	"55"	151	0.1%
+	"Idaho"	"16"	"2021"	"2021"	"56 years"	"56"	164	0.2%
+	"Idaho"	"16"	"2021"	"2021"	"57 years"	"57"	163	0.2%
+	"Idaho"	"16"	"2021"	"2021"	"58 years"	"58"	193	0.2%
+	"Idaho"	"16"	"2021"	"2021"	"59 years"	"59"	218	0.2%
+	"Idaho"	"16"	"2021"	"2021"	"60 years"	"60"	238	0.2%
+	"Idaho"	"16"	"2021"	"2021"	"61 years"	"61"	265	0.2%
+	"Idaho"	"16"	"2021"	"2021"	"62 years"	"62"	293	0.3%
+	"Idaho"	"16"	"2021"	"2021"	"63 years"	"63"	283	0.3%
+	"Idaho"	"16"	"2021"	"2021"	"64 years"	"64"	310	0.3%
+	"Idaho"	"16"	"2021"	"2021"	"65 years"	"65"	311	0.3%
+	"Idaho"	"16"	"2021"	"2021"	"66 years"	"66"	296	0.3%
+	"Idaho"	"16"	"2021"	"2021"	"67 years"	"67"	334	0.3%
+	"Idaho"	"16"	"2021"	"2021"	"68 years"	"68"	370	0.3%
+	"Idaho"	"16"	"2021"	"2021"	"69 years"	"69"	407	0.4%
+	"Idaho"	"16"	"2021"	"2021"	"70 years"	"70"	381	0.4%
+	"Idaho"	"16"	"2021"	"2021"	"71 years"	"71"	419	0.4%
+	"Idaho"	"16"	"2021"	"2021"	"72 years"	"72"	399	0.4%
+	"Idaho"	"16"	"2021"	"2021"	"73 years"	"73"	438	0.4%
+	"Idaho"	"16"	"2021"	"2021"	"74 years"	"74"	535	0.5%
+	"Idaho"	"16"	"2021"	"2021"	"75 years"	"75"	426	0.4%
+	"Idaho"	"16"	"2021"	"2021"	"76 years"	"76"	400	0.4%
+	"Idaho"	"16"	"2021"	"2021"	"77 years"	"77"	424	0.4%
+	"Idaho"	"16"	"2021"	"2021"	"78 years"	"78"	547	0.5%
+	"Idaho"	"16"	"2021"	"2021"	"79 years"	"79"	506	0.5%
+	"Idaho"	"16"	"2021"	"2021"	"80 years"	"80"	453	0.4%
+	"Idaho"	"16"	"2021"	"2021"	"81 years"	"81"	506	0.5%
+	"Idaho"	"16"	"2021"	"2021"	"82 years"	"82"	483	0.5%
+	"Idaho"	"16"	"2021"	"2021"	"83 years"	"83"	490	0.5%
+	"Idaho"	"16"	"2021"	"2021"	"84 years"	"84"	485	0.5%
+	"Idaho"	"16"	"2021"	"2021"	"85 years"	"85"	441	0.4%
+	"Idaho"	"16"	"2021"	"2021"	"86 years"	"86"	494	0.5%
+	"Idaho"	"16"	"2021"	"2021"	"87 years"	"87"	451	0.4%
+	"Idaho"	"16"	"2021"	"2021"	"88 years"	"88"	473	0.4%
+	"Idaho"	"16"	"2021"	"2021"	"89 years"	"89"	451	0.4%
+	"Idaho"	"16"	"2021"	"2021"	"90 years"	"90"	430	0.4%
+	"Idaho"	"16"	"2021"	"2021"	"91 years"	"91"	438	0.4%
+	"Idaho"	"16"	"2021"	"2021"	"92 years"	"92"	356	0.3%
+	"Idaho"	"16"	"2021"	"2021"	"93 years"	"93"	341	0.3%
+	"Idaho"	"16"	"2021"	"2021"	"94 years"	"94"	312	0.3%
+	"Idaho"	"16"	"2021"	"2021"	"95 years"	"95"	247	0.2%
+	"Idaho"	"16"	"2021"	"2021"	"96 years"	"96"	203	0.2%
+	"Idaho"	"16"	"2021"	"2021"	"97 years"	"97"	148	0.1%
+	"Idaho"	"16"	"2021"	"2021"	"98 years"	"98"	103	0.1%
+	"Idaho"	"16"	"2021"	"2021"	"99 years"	"99"	87	0.1%
+	"Idaho"	"16"	"2021"	"2021"	"100+ years"	"100"	141	0.1%
+	"Idaho"	"16"	"2021"	"2021"	"Not Stated"	"NS"	0	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"< 1 year"	"0"	117	0.1%
+	"Idaho"	"16"	"2022"	"2022"	"1 year"	"1"	Suppressed	Suppressed
+	"Idaho"	"16"	"2022"	"2022"	"2 years"	"2"	Suppressed	Suppressed
+	"Idaho"	"16"	"2022"	"2022"	"3 years"	"3"	Suppressed	Suppressed
+	"Idaho"	"16"	"2022"	"2022"	"4 years"	"4"	Suppressed	Suppressed
+	"Idaho"	"16"	"2022"	"2022"	"5 years"	"5"	Suppressed	Suppressed
+	"Idaho"	"16"	"2022"	"2022"	"6 years"	"6"	Suppressed	Suppressed
+	"Idaho"	"16"	"2022"	"2022"	"7 years"	"7"	Suppressed	Suppressed
+	"Idaho"	"16"	"2022"	"2022"	"8 years"	"8"	Suppressed	Suppressed
+	"Idaho"	"16"	"2022"	"2022"	"9 years"	"9"	Suppressed	Suppressed
+	"Idaho"	"16"	"2022"	"2022"	"10 years"	"10"	Suppressed	Suppressed
+	"Idaho"	"16"	"2022"	"2022"	"11 years"	"11"	Suppressed	Suppressed
+	"Idaho"	"16"	"2022"	"2022"	"12 years"	"12"	Suppressed	Suppressed
+	"Idaho"	"16"	"2022"	"2022"	"13 years"	"13"	Suppressed	Suppressed
+	"Idaho"	"16"	"2022"	"2022"	"14 years"	"14"	15	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"15 years"	"15"	15	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"16 years"	"16"	14	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"17 years"	"17"	Suppressed	Suppressed
+	"Idaho"	"16"	"2022"	"2022"	"18 years"	"18"	13	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"19 years"	"19"	22	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"20 years"	"20"	24	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"21 years"	"21"	19	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"22 years"	"22"	23	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"23 years"	"23"	29	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"24 years"	"24"	29	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"25 years"	"25"	28	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"26 years"	"26"	33	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"27 years"	"27"	33	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"28 years"	"28"	43	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"29 years"	"29"	22	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"30 years"	"30"	35	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"31 years"	"31"	36	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"32 years"	"32"	32	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"33 years"	"33"	48	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"34 years"	"34"	44	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"35 years"	"35"	39	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"36 years"	"36"	36	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"37 years"	"37"	38	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"38 years"	"38"	44	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"39 years"	"39"	55	0.1%
+	"Idaho"	"16"	"2022"	"2022"	"40 years"	"40"	51	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"41 years"	"41"	62	0.1%
+	"Idaho"	"16"	"2022"	"2022"	"42 years"	"42"	51	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"43 years"	"43"	55	0.1%
+	"Idaho"	"16"	"2022"	"2022"	"44 years"	"44"	52	0.0%
+	"Idaho"	"16"	"2022"	"2022"	"45 years"	"45"	72	0.1%
+	"Idaho"	"16"	"2022"	"2022"	"46 years"	"46"	62	0.1%
+	"Idaho"	"16"	"2022"	"2022"	"47 years"	"47"	68	0.1%
+	"Idaho"	"16"	"2022"	"2022"	"48 years"	"48"	70	0.1%
+	"Idaho"	"16"	"2022"	"2022"	"49 years"	"49"	83	0.1%
+	"Idaho"	"16"	"2022"	"2022"	"50 years"	"50"	79	0.1%
+	"Idaho"	"16"	"2022"	"2022"	"51 years"	"51"	88	0.1%
+	"Idaho"	"16"	"2022"	"2022"	"52 years"	"52"	112	0.1%
+	"Idaho"	"16"	"2022"	"2022"	"53 years"	"53"	102	0.1%
+	"Idaho"	"16"	"2022"	"2022"	"54 years"	"54"	111	0.1%
+	"Idaho"	"16"	"2022"	"2022"	"55 years"	"55"	128	0.1%
+	"Idaho"	"16"	"2022"	"2022"	"56 years"	"56"	126	0.1%
+	"Idaho"	"16"	"2022"	"2022"	"57 years"	"57"	151	0.1%
+	"Idaho"	"16"	"2022"	"2022"	"58 years"	"58"	160	0.2%
+	"Idaho"	"16"	"2022"	"2022"	"59 years"	"59"	177	0.2%
+	"Idaho"	"16"	"2022"	"2022"	"60 years"	"60"	210	0.2%
+	"Idaho"	"16"	"2022"	"2022"	"61 years"	"61"	196	0.2%
+	"Idaho"	"16"	"2022"	"2022"	"62 years"	"62"	229	0.2%
+	"Idaho"	"16"	"2022"	"2022"	"63 years"	"63"	272	0.3%
+	"Idaho"	"16"	"2022"	"2022"	"64 years"	"64"	251	0.2%
+	"Idaho"	"16"	"2022"	"2022"	"65 years"	"65"	275	0.3%
+	"Idaho"	"16"	"2022"	"2022"	"66 years"	"66"	288	0.3%
+	"Idaho"	"16"	"2022"	"2022"	"67 years"	"67"	308	0.3%
+	"Idaho"	"16"	"2022"	"2022"	"68 years"	"68"	325	0.3%
+	"Idaho"	"16"	"2022"	"2022"	"69 years"	"69"	322	0.3%
+	"Idaho"	"16"	"2022"	"2022"	"70 years"	"70"	362	0.3%
+	"Idaho"	"16"	"2022"	"2022"	"71 years"	"71"	387	0.4%
+	"Idaho"	"16"	"2022"	"2022"	"72 years"	"72"	361	0.3%
+	"Idaho"	"16"	"2022"	"2022"	"73 years"	"73"	415	0.4%
+	"Idaho"	"16"	"2022"	"2022"	"74 years"	"74"	428	0.4%
+	"Idaho"	"16"	"2022"	"2022"	"75 years"	"75"	507	0.5%
+	"Idaho"	"16"	"2022"	"2022"	"76 years"	"76"	446	0.4%
+	"Idaho"	"16"	"2022"	"2022"	"77 years"	"77"	456	0.4%
+	"Idaho"	"16"	"2022"	"2022"	"78 years"	"78"	471	0.4%
+	"Idaho"	"16"	"2022"	"2022"	"79 years"	"79"	466	0.4%
+	"Idaho"	"16"	"2022"	"2022"	"80 years"	"80"	489	0.5%
+	"Idaho"	"16"	"2022"	"2022"	"81 years"	"81"	485	0.5%
+	"Idaho"	"16"	"2022"	"2022"	"82 years"	"82"	423	0.4%
+	"Idaho"	"16"	"2022"	"2022"	"83 years"	"83"	529	0.5%
+	"Idaho"	"16"	"2022"	"2022"	"84 years"	"84"	476	0.4%
+	"Idaho"	"16"	"2022"	"2022"	"85 years"	"85"	504	0.5%
+	"Idaho"	"16"	"2022"	"2022"	"86 years"	"86"	445	0.4%
+	"Idaho"	"16"	"2022"	"2022"	"87 years"	"87"	472	0.4%
+	"Idaho"	"16"	"2022"	"2022"	"88 years"	"88"	468	0.4%
+	"Idaho"	"16"	"2022"	"2022"	"89 years"	"89"	416	0.4%
+	"Idaho"	"16"	"2022"	"2022"	"90 years"	"90"	431	0.4%
+	"Idaho"	"16"	"2022"	"2022"	"91 years"	"91"	389	0.4%
+	"Idaho"	"16"	"2022"	"2022"	"92 years"	"92"	354	0.3%
+	"Idaho"	"16"	"2022"	"2022"	"93 years"	"93"	332	0.3%
+	"Idaho"	"16"	"2022"	"2022"	"94 years"	"94"	260	0.2%
+	"Idaho"	"16"	"2022"	"2022"	"95 years"	"95"	231	0.2%
+	"Idaho"	"16"	"2022"	"2022"	"96 years"	"96"	208	0.2%
+	"Idaho"	"16"	"2022"	"2022"	"97 years"	"97"	162	0.2%
+	"Idaho"	"16"	"2022"	"2022"	"98 years"	"98"	100	0.1%
+	"Idaho"	"16"	"2022"	"2022"	"99 years"	"99"	75	0.1%
+	"Idaho"	"16"	"2022"	"2022"	"100+ years"	"100"	139	0.1%
+	"Idaho"	"16"	"2022"	"2022"	"Not Stated"	"NS"	0	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"< 1 year"	"0"	100	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"1 year"	"1"	11	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"2 years"	"2"	10	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"3 years"	"3"	Suppressed	Suppressed
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"4 years"	"4"	Suppressed	Suppressed
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"5 years"	"5"	Suppressed	Suppressed
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"6 years"	"6"	Suppressed	Suppressed
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"7 years"	"7"	Suppressed	Suppressed
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"8 years"	"8"	Suppressed	Suppressed
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"9 years"	"9"	Suppressed	Suppressed
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"10 years"	"10"	Suppressed	Suppressed
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"11 years"	"11"	Suppressed	Suppressed
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"12 years"	"12"	Suppressed	Suppressed
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"13 years"	"13"	Suppressed	Suppressed
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"14 years"	"14"	Suppressed	Suppressed
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"15 years"	"15"	23	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"16 years"	"16"	19	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"17 years"	"17"	17	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"18 years"	"18"	11	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"19 years"	"19"	19	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"20 years"	"20"	22	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"21 years"	"21"	23	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"22 years"	"22"	34	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"23 years"	"23"	27	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"24 years"	"24"	28	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"25 years"	"25"	25	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"26 years"	"26"	29	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"27 years"	"27"	23	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"28 years"	"28"	30	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"29 years"	"29"	30	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"30 years"	"30"	39	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"31 years"	"31"	30	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"32 years"	"32"	41	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"33 years"	"33"	37	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"34 years"	"34"	47	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"35 years"	"35"	34	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"36 years"	"36"	44	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"37 years"	"37"	47	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"38 years"	"38"	49	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"39 years"	"39"	54	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"40 years"	"40"	75	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"41 years"	"41"	59	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"42 years"	"42"	58	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"43 years"	"43"	51	0.0%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"44 years"	"44"	67	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"45 years"	"45"	64	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"46 years"	"46"	58	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"47 years"	"47"	70	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"48 years"	"48"	71	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"49 years"	"49"	56	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"50 years"	"50"	62	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"51 years"	"51"	85	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"52 years"	"52"	84	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"53 years"	"53"	87	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"54 years"	"54"	91	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"55 years"	"55"	105	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"56 years"	"56"	134	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"57 years"	"57"	135	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"58 years"	"58"	155	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"59 years"	"59"	170	0.2%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"60 years"	"60"	163	0.2%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"61 years"	"61"	173	0.2%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"62 years"	"62"	213	0.2%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"63 years"	"63"	225	0.2%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"64 years"	"64"	248	0.2%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"65 years"	"65"	267	0.3%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"66 years"	"66"	284	0.3%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"67 years"	"67"	305	0.3%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"68 years"	"68"	305	0.3%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"69 years"	"69"	339	0.3%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"70 years"	"70"	353	0.3%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"71 years"	"71"	363	0.3%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"72 years"	"72"	361	0.3%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"73 years"	"73"	371	0.3%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"74 years"	"74"	411	0.4%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"75 years"	"75"	453	0.4%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"76 years"	"76"	493	0.5%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"77 years"	"77"	400	0.4%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"78 years"	"78"	398	0.4%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"79 years"	"79"	477	0.4%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"80 years"	"80"	513	0.5%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"81 years"	"81"	470	0.4%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"82 years"	"82"	489	0.5%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"83 years"	"83"	474	0.4%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"84 years"	"84"	496	0.5%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"85 years"	"85"	480	0.5%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"86 years"	"86"	419	0.4%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"87 years"	"87"	466	0.4%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"88 years"	"88"	444	0.4%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"89 years"	"89"	420	0.4%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"90 years"	"90"	414	0.4%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"91 years"	"91"	356	0.3%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"92 years"	"92"	368	0.3%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"93 years"	"93"	276	0.3%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"94 years"	"94"	231	0.2%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"95 years"	"95"	243	0.2%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"96 years"	"96"	183	0.2%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"97 years"	"97"	129	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"98 years"	"98"	98	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"99 years"	"99"	84	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"100+ years"	"100"	133	0.1%
+	"Idaho"	"16"	"2023 (provisional)"	"2023"	"Not Stated"	"NS"	0	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"< 1 year"	"0"	53	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"1 year"	"1"	Suppressed	Suppressed
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"2 years"	"2"	Suppressed	Suppressed
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"3 years"	"3"	Suppressed	Suppressed
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"4 years"	"4"	Suppressed	Suppressed
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"5 years"	"5"	Suppressed	Suppressed
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"6 years"	"6"	Suppressed	Suppressed
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"7 years"	"7"	Suppressed	Suppressed
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"8 years"	"8"	0	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"9 years"	"9"	Suppressed	Suppressed
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"10 years"	"10"	0	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"11 years"	"11"	Suppressed	Suppressed
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"12 years"	"12"	Suppressed	Suppressed
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"13 years"	"13"	Suppressed	Suppressed
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"14 years"	"14"	Suppressed	Suppressed
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"15 years"	"15"	Suppressed	Suppressed
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"16 years"	"16"	Suppressed	Suppressed
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"17 years"	"17"	Suppressed	Suppressed
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"18 years"	"18"	Suppressed	Suppressed
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"19 years"	"19"	Suppressed	Suppressed
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"20 years"	"20"	17	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"21 years"	"21"	14	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"22 years"	"22"	Suppressed	Suppressed
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"23 years"	"23"	15	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"24 years"	"24"	13	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"25 years"	"25"	10	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"26 years"	"26"	12	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"27 years"	"27"	15	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"28 years"	"28"	11	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"29 years"	"29"	11	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"30 years"	"30"	18	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"31 years"	"31"	18	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"32 years"	"32"	22	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"33 years"	"33"	19	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"34 years"	"34"	20	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"35 years"	"35"	24	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"36 years"	"36"	29	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"37 years"	"37"	21	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"38 years"	"38"	20	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"39 years"	"39"	21	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"40 years"	"40"	25	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"41 years"	"41"	23	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"42 years"	"42"	32	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"43 years"	"43"	31	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"44 years"	"44"	30	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"45 years"	"45"	35	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"46 years"	"46"	28	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"47 years"	"47"	31	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"48 years"	"48"	28	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"49 years"	"49"	36	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"50 years"	"50"	38	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"51 years"	"51"	41	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"52 years"	"52"	51	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"53 years"	"53"	48	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"54 years"	"54"	65	0.1%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"55 years"	"55"	59	0.1%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"56 years"	"56"	69	0.1%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"57 years"	"57"	62	0.1%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"58 years"	"58"	67	0.1%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"59 years"	"59"	100	0.1%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"60 years"	"60"	100	0.1%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"61 years"	"61"	132	0.1%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"62 years"	"62"	116	0.1%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"63 years"	"63"	152	0.1%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"64 years"	"64"	131	0.1%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"65 years"	"65"	143	0.1%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"66 years"	"66"	148	0.1%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"67 years"	"67"	151	0.1%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"68 years"	"68"	183	0.2%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"69 years"	"69"	182	0.2%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"70 years"	"70"	174	0.2%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"71 years"	"71"	219	0.2%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"72 years"	"72"	212	0.2%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"73 years"	"73"	209	0.2%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"74 years"	"74"	241	0.2%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"75 years"	"75"	254	0.2%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"76 years"	"76"	307	0.3%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"77 years"	"77"	287	0.3%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"78 years"	"78"	229	0.2%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"79 years"	"79"	274	0.3%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"80 years"	"80"	292	0.3%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"81 years"	"81"	299	0.3%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"82 years"	"82"	281	0.3%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"83 years"	"83"	238	0.2%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"84 years"	"84"	249	0.2%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"85 years"	"85"	271	0.3%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"86 years"	"86"	275	0.3%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"87 years"	"87"	260	0.2%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"88 years"	"88"	243	0.2%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"89 years"	"89"	245	0.2%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"90 years"	"90"	239	0.2%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"91 years"	"91"	196	0.2%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"92 years"	"92"	196	0.2%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"93 years"	"93"	196	0.2%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"94 years"	"94"	148	0.1%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"95 years"	"95"	138	0.1%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"96 years"	"96"	104	0.1%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"97 years"	"97"	74	0.1%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"98 years"	"98"	65	0.1%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"99 years"	"99"	46	0.0%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"100+ years"	"100"	105	0.1%
+	"Idaho"	"16"	"2024 (provisional and partial)"	"2024"	"Not Stated"	"NS"	0	0.0%
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"Title: Provisional mortality 2018 through July 27 2024 by single year age groups"
+"Residence States: Idaho (16)"
+"Group By: Residence State; Year; Single-Year Ages"
+"Show Totals: False"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Aug 12, 2024 12:09:39 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2022,"
+"and from provisional data for years 2023-2024, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Aug 12, 2024 12:09:39"
+"PM"
+"---"
+Messages:
+"1. Population and Rates are not available when values are selected for Single-Year Ages or Ten-Year Age Groups in section 3 or"
+"they appear in Group Results By list in section 1, and county level locations, including urbanization categories and US-Mexico"
+"Border areas, are selected in section 2, or when County, US-Mexico Border areas, or Urbanization appears in the Group Results By"
+"list in section 1. Population, Rates and related measures have been removed from the results. More information#"
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality."
+"2. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"3. The population figures for years 2022 and later are single-race estimates of the July 1 resident population, from the Vintage"
+"2022 postcensal series released by the Census Bureau on June 22, 2023. The 2022 series is based on the Modified Blended Base"
+"produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of"
+"the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020"
+"Census data from the internal Census Edited File (CEF). The population figures for years 2021 are single-race estimates of the"
+"July 1 resident population, based on the Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial"
+"population count, from the Vintage 2021 postcensal series released by the Census Bureau on June 30, 2022. The population figures"
+"for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020 postcensal series based on"
+"April 2010 Census, released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series based on April 2010 Census, released by the"
+"Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the July 1 resident"
+"population, from the Vintage 2018 postcensal series based on April 2010 Census, released by the Census Bureau on June 20, 2019."
+"More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Population Data."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
+"Group."
+"5. Deaths occurring through July 27, 2024 as of August 04, 2024."
