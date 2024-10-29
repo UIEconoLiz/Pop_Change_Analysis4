@@ -207,3 +207,35 @@ people %>%
 #ggsave(path = outputpath, ("migration/comparison_net-migration_irs_pep.png"), dpi = 320, width = 7, height = 5) 
 
 
+# net migration-- PopEst and ACS only
+people %>%
+  select(year, Source, statistic, people) %>% 
+  filter(statistic == "net_migration", 
+         (Source %in% c("Census American Community Survey", "Census Population Estimates Program"))) %>% 
+  #mutate(people = if_else(Source == "Census American Community Survey", 0, people), 
+  #       people = if_else(Source == "DMV Driver's License Surrenders", 0, people)) %>% 
+  ggplot(aes(x = year, y = people, color = Source)) +
+  geom_line(size = 2) +
+  geom_point(size = 4) +
+  theme_liz() +
+  scale_color_manual(values = c("#d7003f", "#261882"), # UI colors
+                     labels = c("American Community Survey", "Population Estimates Program")) +
+  theme(axis.text.x = element_text(angle = 45), 
+        plot.caption=element_text(hjust = 0),
+        legend.position="bottom", 
+        legend.justification.bottom = "left", 
+        legend.title = element_blank(), 
+        legend.text = element_text(size = 12)) +
+  guides(color = guide_legend(ncol = 2)) +
+  scale_x_continuous(limits = c(2011, 2023), breaks = c(2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023)) +
+  scale_y_continuous(#limits = c(0, 53000),
+                     labels = label_comma()) +
+  ggtitle("Idaho net migration by data source") 
+
+ggsave(path = outputpath, ("migration/comparison_net-migration_acs_pep.png"), dpi = 320, width = 9, height = 5) 
+
+
+examine <- people %>%
+  select(year, Source, statistic, people) %>% 
+  filter(statistic == "net_migration", 
+         (Source %in% c("Census American Community Survey", "Census Population Estimates Program")))
