@@ -28,6 +28,8 @@ outputpath <- "/Users/elizabethbageant/Library/CloudStorage/OneDrive-Universityo
 
 #PrettyCols::Bright #462255FF, #FF8811FF, #9DD9D2FF, #046E8FFF, #D44D5CFF
 
+map_colors <- c("#C9979D", "#ECDCDD", "#E5E3F1", "#B3AED5", "#5C50A3" )
+
 # Files in order:
 
 source(theme_liz.R)
