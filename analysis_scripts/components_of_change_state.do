@@ -109,6 +109,7 @@ append using "$temp/temp3"
 * this may be slightly different from what census calls the "base" 
 * base_y2 = popest_y1, base_y3 = popest_y2, etc
 
+sort year
 gen base = popestimate[_n-1]
 
 

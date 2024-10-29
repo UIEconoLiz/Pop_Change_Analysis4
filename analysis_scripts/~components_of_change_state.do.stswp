@@ -99,7 +99,7 @@ save "$temp/temp3"
 
 /*-------------- Combine files -----------------------------------------------*/
 
-cd "$temp"",clear"
+cd "$temp"
 use temp, clear
 append using "$temp/temp2"
 append using "$temp/temp3"
@@ -109,6 +109,7 @@ append using "$temp/temp3"
 * this may be slightly different from what census calls the "base" 
 * base_y2 = popest_y1, base_y3 = popest_y2, etc
 
+sort year
 gen base = popestimate[_n-1]
 
 
