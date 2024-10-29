@@ -99,7 +99,7 @@ save "$temp/temp3"
 
 /*-------------- Combine files -----------------------------------------------*/
 
-cd "$temp"
+cd "$temp"",clear"
 use temp, clear
 append using "$temp/temp2"
 append using "$temp/temp3"
