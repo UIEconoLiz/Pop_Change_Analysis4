@@ -30,10 +30,12 @@ cdc %>%
   geom_line(size = 2) +
   geom_point(size = 4) +
   theme_liz() +
-  scale_color_manual(values = c("#FF8C00", "#462255FF"), 
+  scale_color_manual(values = c("#d7003f", "#261882"), 
                      labels = c("Idaho", "U.S."), 
                      name = "Deaths per 1000 people") +
-  scale_y_continuous(limits = c(7, 10.5)) +
+  #scale_y_continuous(limits = c(7, 10.5)) +
+  theme(axis.text.x = element_text(angle = 45)) +
+  theme(plot.caption=element_text(hjust = 0)) +
   ggtitle("Age adjusted deaths per 1000: Idaho and U.S.") +
   labs(caption = "Data source: CDC WONDER") +
   xlab("") +

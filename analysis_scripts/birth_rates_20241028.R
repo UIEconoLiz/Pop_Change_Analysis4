@@ -19,14 +19,16 @@ fert %>%
   geom_line(size = 2) +
   geom_point(size = 4) +
   theme_liz() +
-  scale_color_manual(values = c("#FF8C00", "#462255FF"), 
+  scale_color_manual(values = c("#d7003f", "#261882"), 
                      labels = c("Idaho", "U.S."), 
                      name = "General fertility rate") +
   #scale_y_continuous(limits = c(7, 10.5)) +
+  theme(axis.text.x = element_text(angle = 45)) +
+  theme(plot.caption=element_text(hjust = 0)) +
   ggtitle("Births per 1000 women age 15-44: Idaho and U.S.") +
   labs(caption = "Data source: CDC WONDER, NCHS") +
   xlab("") +
-  ylab("Deaths per 1000 women age 15-44")
+  ylab("Births per 1000 women age 15-44")
 
 
 ggsave(path = outputpath, "births/gen_fert_US_ID_CDC.png", dpi = 320, height = 7, width = 13) 
@@ -50,8 +52,8 @@ births_national <- births_national %>%
 # Plot Idaho birth rates (per 1000 women age 15-44) over time--line graph
 births %>% 
   ggplot(aes(x = year, y = br)) +
-  geom_line(size = 2, color = "#D44D5CFF") + 
-  geom_point(size = 4, color = "#D44D5CFF") +  
+  geom_line(size = 2, color = "#d7003f") + 
+  geom_point(size = 4, color = "#d7003f") +  
   theme_liz() +
   scale_color_paletteer_d("PrettyCols::Bright", direction = -1) +
   theme(axis.text.x = element_text(angle = 45), 
@@ -72,8 +74,8 @@ ggsave(path = outputpath, "births/state_birth_rates.png", dpi = 320)
 # Plot crude birth rate (per 1000 people) over time--line graph
 births %>% 
   ggplot(aes(x = year, y = br_crude)) +
-  geom_line(size = 2, color = "#D44D5CFF") + 
-  geom_point(size = 4, color = "#D44D5CFF") +  
+  geom_line(size = 2, color = "#d7003f") + 
+  geom_point(size = 4, color = "#d7003f") +  
   theme_liz() +
   scale_color_paletteer_d("PrettyCols::Bright", direction = -1) +
   theme(axis.text.x = element_text(angle = 45), 
