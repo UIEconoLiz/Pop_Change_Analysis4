@@ -8,9 +8,12 @@ theme_liz <- function() {
   theme_minimal() %+replace%
     theme(
       # grid elements
-      #panel.grid.major = element_blank(),    #strip major gridlines
+      panel.grid.major = element_blank(),    #strip major gridlines
       panel.grid.minor = element_blank(),    #strip minor gridlines
-      #axis.ticks = element_blank(),          #strip axis ticks
+
+      # include x and y axis lines
+      axis.line.x = element_line(color="black"),
+      axis.line.y = element_line(color="black"),
       
       # text elements
       plot.title = element_text(             #title
