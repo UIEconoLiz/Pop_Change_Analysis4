@@ -5,7 +5,10 @@
 # Currently not plotting at county level due to likely lack of precision. This can be revisited if there is interest.
 
 
-
+pep_state %>% 
+  filter(year == 2023) %>% 
+  group_by(agecat) %>% 
+  summarize(pop = sum(pop))
 
 #---------- PEP 2010-2023 -------------#
 
@@ -40,6 +43,11 @@ pep_state$agecat <- factor(pep_state$agecat, order = TRUE, levels = c("age04", "
 # Grouped by generation and workforce status
 key <- read.csv(paste(datapath, "age_generation_key.csv", sep = "")) %>% 
   select(agecat, generation, category)
+# labor force participation rate data (see excel_analysis/lfpr_calculations.xlsx for origin of these rates)
+lfpr_wf <- data.frame(
+  category = c("Pre-workforce", "Early workforce or education", "Prime age", "Near retirement", "Retired"), 
+  lfpr = c(0, 0.615, 0.835, 0.658, 0.195))
+
 
 gen <- pep_state %>% 
   group_by(agecat, year) %>% 
@@ -53,44 +61,46 @@ wf_status <- pep_state %>%
   group_by(agecat, year) %>% 
   summarize(pop = sum(pop)) %>% 
   full_join(key, by = join_by(agecat)) %>% 
+  full_join(lfpr_wf, by = join_by(category)) %>% 
   group_by(year, category) %>% 
-  summarize(pop = sum(pop))
+  summarize(pop = sum(pop), 
+            lfpr = mean(lfpr)) %>% 
+  mutate(working = pop*lfpr)
 wf_status$category <- factor(wf_status$category, order = TRUE, levels = c("Pre-workforce", "Early workforce or education", "Prime age", "Near retirement", "Retired"))
-
-
-
-#-------- Generation bin plots ------------------------------------------------#
-genlabels <- c("Alpha", "Z", "Millennial", "X", "Baby Boomer", "Silent")
-
-gen %>% 
-  filter(year == 2023) %>% 
-  ggplot(aes(x = generation, y = pop, fill = generation)) +
-  geom_bar(stat = "identity") +
-  coord_flip()
 
 
 #-------- Workforce status bin plots ------------------------------------------------#
 
 wflabels <- c("Pre-workforce\n(0-14)", "Early workforce or\nin education\n(15-24)", "Prime age\n(25-54)", "Near retirement\n(55-64)", "Retired\n(65+)")
 
+colors <- c("#034441", "#d7003f", "#008080", "#f1b300", "#261882")
+
+
 # 2023
 wf_status %>% 
   filter(year == 2023) %>% 
-  ggplot(aes(x = category, y = pop, fill = category)) +
-  geom_bar(stat = "identity") +
+  ggplot() +
+  geom_bar(aes(y = pop, x = category), stat = "identity", position = "identity", alpha = 0.6, fill = "#261882") +
+  geom_bar(aes(y = working, x = category), stat = "identity", position = "identity", fill = "#261882") +
   coord_flip() +
   theme_liz() +
-  scale_fill_manual(values = c("#261882", "#d7003f", "#008080", "#f1b300", "#261882"), 
-                     labels = wflabels) +
   scale_x_discrete(labels = wflabels) +
   scale_y_continuous(labels = label_comma(), 
                      breaks = c(0, 100000, 200000, 300000, 400000, 500000, 600000, 700000)) +
-  theme(axis.text.x = element_text(angle = 45)) +
-  theme(plot.caption=element_text(hjust = 0)) + 
-  theme(legend.position = "none")
+  theme(axis.text.x = element_text(angle = 45)) 
   
 ggsave(path = outputpath, paste("age/state_workforce_2023.png", sep = ""), dpi = 320, width = 8, height = 5) 
 
+
+  
+
+ggplot(data = plotdata) +
+geom_bar(aes(x = category, y = pop), stat = "identity", position = "identity", fill = colors) 
+  
+
+plot %>% 
+  ggplot(aes(x = category, y = lfpr)) +
+  geom_bar()
 
 # 2010 for reference
 wf_status %>% 
@@ -100,7 +110,8 @@ wf_status %>%
   coord_flip() +
   theme_liz() 
 
-#-------- Workforce status  bin plots ------------------------------------------------#
+
+#-------- Generation bin plots ------------------------------------------------#
 genlabels <- c("Alpha", "Z", "Millennial", "X", "Baby Boomer", "Silent")
 
 gen %>% 

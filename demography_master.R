@@ -17,7 +17,7 @@ library(readxl)
 library(usmap)  
 library(sf)
 library(pals)
-
+library(ggpattern)
 
 # File path
 datapath <- "/Users/elizabethbageant/Library/CloudStorage/OneDrive-UniversityofIdaho/MAIN/Projects/Growth in Idaho 2024/Pop_Change_Analysis4/analysis_data/"
