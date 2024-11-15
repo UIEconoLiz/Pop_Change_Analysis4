@@ -61,4 +61,5 @@ replace agecat = "retired" if age>=65
 
 collapse (sum) hhwt, by(agecat)
 
-
+* I have pasted this data into excel to calculate shares alongside other calculations using IRS data
+* ~Growth in Idaho 2024/Pop_Change_Analysis4/analysis_excel/IRS_ACS_IPUMS_migration_age_shares.xlsx
